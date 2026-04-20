@@ -1,0 +1,1072 @@
+ID,ST_Code,Area_Name,ST_Name,Region,Age,Persons,Males,Females,education_Persons,education_Males,education_Females,School_Persons,School_Males,School_Females,College_Persons,College_Males,College_Females,Vocational_Persons,Vocational_Males,Vocational_Females,Other_Persons,Other_Males,Other_Females,Literacy_Persons,Literacy_Males,Literacy_Females
+1,0,District - Baleshwar 08,All Scheduled Tribes,Total,All ages,228454,116193,112261,27016,17398,9618,25992,16562,9430,881,721,160,81,65,16,36,30,6,26,20,6
+2,0,District - Baleshwar 08,All Scheduled Tribes,Total,0-5,35726,18164,17562,1002,554,448,1002,554,448,0,0,0,0,0,0,0,0,0,0,0,0
+3,0,District - Baleshwar 08,All Scheduled Tribes,Total,6-14,58007,30005,28002,21594,13642,7952,21594,13642,7952,0,0,0,0,0,0,0,0,0,0,0,0
+4,0,District - Baleshwar 08,All Scheduled Tribes,Total,15-19,20354,10681,9673,3602,2534,1068,3151,2185,966,394,303,91,32,27,5,24,19,5,1,0,1
+5,0,District - Baleshwar 08,All Scheduled Tribes,Total,20-24,16760,8561,8199,697,561,136,245,181,64,423,355,68,19,16,3,7,6,1,3,3,0
+6,0,District - Baleshwar 08,All Scheduled Tribes,Total,25+,97371,48670,48701,120,106,14,0,0,0,63,62,1,30,22,8,5,5,0,22,17,5
+7,0,District - Baleshwar 08,All Scheduled Tribes,Total,Unknown,236,112,124,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+8,0,District - Baleshwar 08,All Scheduled Tribes,Rural,All ages,209223,106252,102971,24263,15647,8616,23437,14962,8475,723,607,116,58,44,14,20,15,5,25,19,6
+9,0,District - Baleshwar 08,All Scheduled Tribes,Rural,0-5,32818,16683,16135,890,491,399,890,491,399,0,0,0,0,0,0,0,0,0,0,0,0
+10,0,District - Baleshwar 08,All Scheduled Tribes,Rural,6-14,53219,27364,25855,19557,12352,7205,19557,12352,7205,0,0,0,0,0,0,0,0,0,0,0,0
+11,0,District - Baleshwar 08,All Scheduled Tribes,Rural,15-19,18477,9672,8805,3124,2226,898,2772,1951,821,320,253,67,19,14,5,12,8,4,1,0,1
+12,0,District - Baleshwar 08,All Scheduled Tribes,Rural,20-24,15272,7823,7449,586,484,102,218,168,50,347,298,49,14,12,2,4,3,1,3,3,0
+13,0,District - Baleshwar 08,All Scheduled Tribes,Rural,25+,89233,44610,44623,105,93,12,0,0,0,55,55,0,25,18,7,4,4,0,21,16,5
+14,0,District - Baleshwar 08,All Scheduled Tribes,Rural,Unknown,204,100,104,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+15,0,District - Baleshwar 08,All Scheduled Tribes,Urban,All ages,19231,9941,9290,2753,1751,1002,2555,1600,955,158,114,44,23,21,2,16,15,1,1,1,0
+16,0,District - Baleshwar 08,All Scheduled Tribes,Urban,0-5,2908,1481,1427,112,63,49,112,63,49,0,0,0,0,0,0,0,0,0,0,0,0
+17,0,District - Baleshwar 08,All Scheduled Tribes,Urban,6-14,4788,2641,2147,2037,1290,747,2037,1290,747,0,0,0,0,0,0,0,0,0,0,0,0
+18,0,District - Baleshwar 08,All Scheduled Tribes,Urban,15-19,1877,1009,868,478,308,170,379,234,145,74,50,24,13,13,0,12,11,1,0,0,0
+19,0,District - Baleshwar 08,All Scheduled Tribes,Urban,20-24,1488,738,750,111,77,34,27,13,14,76,57,19,5,4,1,3,3,0,0,0,0
+20,0,District - Baleshwar 08,All Scheduled Tribes,Urban,25+,8138,4060,4078,15,13,2,0,0,0,8,7,1,5,4,1,1,1,0,1,1,0
+21,0,District - Baleshwar 08,All Scheduled Tribes,Urban,Unknown,32,12,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,501,District - Baleshwar 08,Bagata,Total,All ages,89,43,46,20,14,6,19,14,5,1,0,1,0,0,0,0,0,0,0,0,0
+23,501,District - Baleshwar 08,Bagata,Total,0-5,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,501,District - Baleshwar 08,Bagata,Total,6-14,29,17,12,18,13,5,18,13,5,0,0,0,0,0,0,0,0,0,0,0,0
+25,501,District - Baleshwar 08,Bagata,Total,15-19,6,1,5,2,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+26,501,District - Baleshwar 08,Bagata,Total,20-24,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,501,District - Baleshwar 08,Bagata,Total,25+,35,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,501,District - Baleshwar 08,Bagata,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,501,District - Baleshwar 08,Bagata,Rural,All ages,89,43,46,20,14,6,19,14,5,1,0,1,0,0,0,0,0,0,0,0,0
+30,501,District - Baleshwar 08,Bagata,Rural,0-5,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,501,District - Baleshwar 08,Bagata,Rural,6-14,29,17,12,18,13,5,18,13,5,0,0,0,0,0,0,0,0,0,0,0,0
+32,501,District - Baleshwar 08,Bagata,Rural,15-19,6,1,5,2,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+33,501,District - Baleshwar 08,Bagata,Rural,20-24,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,501,District - Baleshwar 08,Bagata,Rural,25+,35,17,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35,501,District - Baleshwar 08,Bagata,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+36,501,District - Baleshwar 08,Bagata,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,501,District - Baleshwar 08,Bagata,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+38,501,District - Baleshwar 08,Bagata,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,501,District - Baleshwar 08,Bagata,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,501,District - Baleshwar 08,Bagata,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,501,District - Baleshwar 08,Bagata,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+42,501,District - Baleshwar 08,Bagata,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43,502,District - Baleshwar 08,Baiga,Total,All ages,269,120,149,38,22,16,38,22,16,0,0,0,0,0,0,0,0,0,0,0,0
+44,502,District - Baleshwar 08,Baiga,Total,0-5,47,21,26,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+45,502,District - Baleshwar 08,Baiga,Total,6-14,75,31,44,34,19,15,34,19,15,0,0,0,0,0,0,0,0,0,0,0,0
+46,502,District - Baleshwar 08,Baiga,Total,15-19,24,9,15,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+47,502,District - Baleshwar 08,Baiga,Total,20-24,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,502,District - Baleshwar 08,Baiga,Total,25+,108,49,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,502,District - Baleshwar 08,Baiga,Total,Unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,502,District - Baleshwar 08,Baiga,Rural,All ages,269,120,149,38,22,16,38,22,16,0,0,0,0,0,0,0,0,0,0,0,0
+51,502,District - Baleshwar 08,Baiga,Rural,0-5,47,21,26,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,502,District - Baleshwar 08,Baiga,Rural,6-14,75,31,44,34,19,15,34,19,15,0,0,0,0,0,0,0,0,0,0,0,0
+53,502,District - Baleshwar 08,Baiga,Rural,15-19,24,9,15,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+54,502,District - Baleshwar 08,Baiga,Rural,20-24,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,502,District - Baleshwar 08,Baiga,Rural,25+,108,49,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,502,District - Baleshwar 08,Baiga,Rural,Unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,502,District - Baleshwar 08,Baiga,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,502,District - Baleshwar 08,Baiga,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,502,District - Baleshwar 08,Baiga,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,502,District - Baleshwar 08,Baiga,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,502,District - Baleshwar 08,Baiga,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,502,District - Baleshwar 08,Baiga,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,502,District - Baleshwar 08,Baiga,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,503,District - Baleshwar 08,Banjara etc.,Total,All ages,58,24,34,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+65,503,District - Baleshwar 08,Banjara etc.,Total,0-5,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,503,District - Baleshwar 08,Banjara etc.,Total,6-14,12,3,9,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+67,503,District - Baleshwar 08,Banjara etc.,Total,15-19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,503,District - Baleshwar 08,Banjara etc.,Total,20-24,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,503,District - Baleshwar 08,Banjara etc.,Total,25+,28,15,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,503,District - Baleshwar 08,Banjara etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,503,District - Baleshwar 08,Banjara etc.,Rural,All ages,58,24,34,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+72,503,District - Baleshwar 08,Banjara etc.,Rural,0-5,13,4,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,503,District - Baleshwar 08,Banjara etc.,Rural,6-14,12,3,9,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+74,503,District - Baleshwar 08,Banjara etc.,Rural,15-19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75,503,District - Baleshwar 08,Banjara etc.,Rural,20-24,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+76,503,District - Baleshwar 08,Banjara etc.,Rural,25+,28,15,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+77,503,District - Baleshwar 08,Banjara etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,503,District - Baleshwar 08,Banjara etc.,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+79,503,District - Baleshwar 08,Banjara etc.,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,503,District - Baleshwar 08,Banjara etc.,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,503,District - Baleshwar 08,Banjara etc.,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,503,District - Baleshwar 08,Banjara etc.,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,503,District - Baleshwar 08,Banjara etc.,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,503,District - Baleshwar 08,Banjara etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,504,District - Baleshwar 08,Bathudi,Total,All ages,14428,7158,7270,1772,1063,709,1682,992,690,84,67,17,4,3,1,1,1,0,1,0,1
+86,504,District - Baleshwar 08,Bathudi,Total,0-5,2093,1031,1062,55,27,28,55,27,28,0,0,0,0,0,0,0,0,0,0,0,0
+87,504,District - Baleshwar 08,Bathudi,Total,6-14,3167,1567,1600,1415,834,581,1415,834,581,0,0,0,0,0,0,0,0,0,0,0,0
+88,504,District - Baleshwar 08,Bathudi,Total,15-19,1217,577,640,239,152,87,200,123,77,36,27,9,1,1,0,1,1,0,1,0,1
+89,504,District - Baleshwar 08,Bathudi,Total,20-24,1028,537,491,53,41,12,12,8,4,40,32,8,1,1,0,0,0,0,0,0,0
+90,504,District - Baleshwar 08,Bathudi,Total,25+,6920,3444,3476,10,9,1,0,0,0,8,8,0,2,1,1,0,0,0,0,0,0
+91,504,District - Baleshwar 08,Bathudi,Total,Unknown,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92,504,District - Baleshwar 08,Bathudi,Rural,All ages,14090,6992,7098,1720,1028,692,1635,961,674,79,63,16,4,3,1,1,1,0,1,0,1
+93,504,District - Baleshwar 08,Bathudi,Rural,0-5,2048,1011,1037,54,26,28,54,26,28,0,0,0,0,0,0,0,0,0,0,0,0
+94,504,District - Baleshwar 08,Bathudi,Rural,6-14,3088,1526,1562,1378,810,568,1378,810,568,0,0,0,0,0,0,0,0,0,0,0,0
+95,504,District - Baleshwar 08,Bathudi,Rural,15-19,1182,559,623,230,145,85,193,118,75,34,25,9,1,1,0,1,1,0,1,0,1
+96,504,District - Baleshwar 08,Bathudi,Rural,20-24,1002,523,479,49,39,10,10,7,3,38,31,7,1,1,0,0,0,0,0,0,0
+97,504,District - Baleshwar 08,Bathudi,Rural,25+,6768,3372,3396,9,8,1,0,0,0,7,7,0,2,1,1,0,0,0,0,0,0
+98,504,District - Baleshwar 08,Bathudi,Rural,Unknown,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,504,District - Baleshwar 08,Bathudi,Urban,All ages,338,166,172,52,35,17,47,31,16,5,4,1,0,0,0,0,0,0,0,0,0
+100,504,District - Baleshwar 08,Bathudi,Urban,0-5,45,20,25,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+101,504,District - Baleshwar 08,Bathudi,Urban,6-14,79,41,38,37,24,13,37,24,13,0,0,0,0,0,0,0,0,0,0,0,0
+102,504,District - Baleshwar 08,Bathudi,Urban,15-19,35,18,17,9,7,2,7,5,2,2,2,0,0,0,0,0,0,0,0,0,0
+103,504,District - Baleshwar 08,Bathudi,Urban,20-24,26,14,12,4,2,2,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0
+104,504,District - Baleshwar 08,Bathudi,Urban,25+,152,72,80,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+105,504,District - Baleshwar 08,Bathudi,Urban,Unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,506,District - Baleshwar 08,Bhuiya etc.,Total,All ages,1201,606,595,145,99,46,136,91,45,9,8,1,0,0,0,0,0,0,0,0,0
+107,506,District - Baleshwar 08,Bhuiya etc.,Total,0-5,172,91,81,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+108,506,District - Baleshwar 08,Bhuiya etc.,Total,6-14,277,149,128,118,80,38,118,80,38,0,0,0,0,0,0,0,0,0,0,0,0
+109,506,District - Baleshwar 08,Bhuiya etc.,Total,15-19,117,53,64,18,10,8,15,8,7,3,2,1,0,0,0,0,0,0,0,0,0
+110,506,District - Baleshwar 08,Bhuiya etc.,Total,20-24,87,41,46,7,7,0,1,1,0,6,6,0,0,0,0,0,0,0,0,0,0
+111,506,District - Baleshwar 08,Bhuiya etc.,Total,25+,548,272,276,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,506,District - Baleshwar 08,Bhuiya etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+113,506,District - Baleshwar 08,Bhuiya etc.,Rural,All ages,1093,537,556,122,80,42,118,77,41,4,3,1,0,0,0,0,0,0,0,0,0
+114,506,District - Baleshwar 08,Bhuiya etc.,Rural,0-5,158,82,76,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+115,506,District - Baleshwar 08,Bhuiya etc.,Rural,6-14,253,131,122,105,68,37,105,68,37,0,0,0,0,0,0,0,0,0,0,0,0
+116,506,District - Baleshwar 08,Bhuiya etc.,Rural,15-19,105,46,59,12,7,5,10,6,4,2,1,1,0,0,0,0,0,0,0,0,0
+117,506,District - Baleshwar 08,Bhuiya etc.,Rural,20-24,75,33,42,3,3,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,0
+118,506,District - Baleshwar 08,Bhuiya etc.,Rural,25+,502,245,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,506,District - Baleshwar 08,Bhuiya etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120,506,District - Baleshwar 08,Bhuiya etc.,Urban,All ages,108,69,39,23,19,4,18,14,4,5,5,0,0,0,0,0,0,0,0,0,0
+121,506,District - Baleshwar 08,Bhuiya etc.,Urban,0-5,14,9,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,506,District - Baleshwar 08,Bhuiya etc.,Urban,6-14,24,18,6,13,12,1,13,12,1,0,0,0,0,0,0,0,0,0,0,0,0
+123,506,District - Baleshwar 08,Bhuiya etc.,Urban,15-19,12,7,5,6,3,3,5,2,3,1,1,0,0,0,0,0,0,0,0,0,0
+124,506,District - Baleshwar 08,Bhuiya etc.,Urban,20-24,12,8,4,4,4,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+125,506,District - Baleshwar 08,Bhuiya etc.,Urban,25+,46,27,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+126,506,District - Baleshwar 08,Bhuiya etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,507,District - Baleshwar 08,Bhumia,Total,All ages,303,148,155,43,24,19,43,24,19,0,0,0,0,0,0,0,0,0,0,0,0
+128,507,District - Baleshwar 08,Bhumia,Total,0-5,44,20,24,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+129,507,District - Baleshwar 08,Bhumia,Total,6-14,80,36,44,35,19,16,35,19,16,0,0,0,0,0,0,0,0,0,0,0,0
+130,507,District - Baleshwar 08,Bhumia,Total,15-19,25,15,10,5,4,1,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+131,507,District - Baleshwar 08,Bhumia,Total,20-24,22,12,10,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+132,507,District - Baleshwar 08,Bhumia,Total,25+,132,65,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+133,507,District - Baleshwar 08,Bhumia,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+134,507,District - Baleshwar 08,Bhumia,Rural,All ages,302,147,155,43,24,19,43,24,19,0,0,0,0,0,0,0,0,0,0,0,0
+135,507,District - Baleshwar 08,Bhumia,Rural,0-5,44,20,24,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+136,507,District - Baleshwar 08,Bhumia,Rural,6-14,80,36,44,35,19,16,35,19,16,0,0,0,0,0,0,0,0,0,0,0,0
+137,507,District - Baleshwar 08,Bhumia,Rural,15-19,25,15,10,5,4,1,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0
+138,507,District - Baleshwar 08,Bhumia,Rural,20-24,22,12,10,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,507,District - Baleshwar 08,Bhumia,Rural,25+,131,64,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,507,District - Baleshwar 08,Bhumia,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,507,District - Baleshwar 08,Bhumia,Urban,All ages,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+142,507,District - Baleshwar 08,Bhumia,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+143,507,District - Baleshwar 08,Bhumia,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,507,District - Baleshwar 08,Bhumia,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+145,507,District - Baleshwar 08,Bhumia,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,507,District - Baleshwar 08,Bhumia,Urban,25+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,507,District - Baleshwar 08,Bhumia,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,508,District - Baleshwar 08,Bhumij,Total,All ages,59281,29950,29331,6820,4373,2447,6591,4171,2420,186,167,19,23,19,4,10,7,3,10,9,1
+149,508,District - Baleshwar 08,Bhumij,Total,0-5,9340,4777,4563,288,164,124,288,164,124,0,0,0,0,0,0,0,0,0,0,0,0
+150,508,District - Baleshwar 08,Bhumij,Total,6-14,15236,7719,7517,5588,3487,2101,5588,3487,2101,0,0,0,0,0,0,0,0,0,0,0,0
+151,508,District - Baleshwar 08,Bhumij,Total,15-19,5147,2760,2387,761,564,197,664,479,185,81,74,7,10,7,3,6,4,2,0,0,0
+152,508,District - Baleshwar 08,Bhumij,Total,20-24,4223,2069,2154,154,131,23,51,41,10,93,81,12,7,7,0,2,1,1,1,1,0
+153,508,District - Baleshwar 08,Bhumij,Total,25+,25283,12602,12681,29,27,2,0,0,0,12,12,0,6,5,1,2,2,0,9,8,1
+154,508,District - Baleshwar 08,Bhumij,Total,Unknown,52,23,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,508,District - Baleshwar 08,Bhumij,Rural,All ages,54240,27347,26893,6209,3968,2241,6013,3792,2221,160,146,14,19,16,3,7,5,2,10,9,1
+156,508,District - Baleshwar 08,Bhumij,Rural,0-5,8550,4375,4175,257,146,111,257,146,111,0,0,0,0,0,0,0,0,0,0,0,0
+157,508,District - Baleshwar 08,Bhumij,Rural,6-14,13945,7024,6921,5126,3184,1942,5126,3184,1942,0,0,0,0,0,0,0,0,0,0,0,0
+158,508,District - Baleshwar 08,Bhumij,Rural,15-19,4674,2487,2187,666,495,171,585,424,161,70,64,6,8,5,3,3,2,1,0,0,0
+159,508,District - Baleshwar 08,Bhumij,Rural,20-24,3871,1896,1975,134,118,16,45,38,7,80,72,8,6,6,0,2,1,1,1,1,0
+160,508,District - Baleshwar 08,Bhumij,Rural,25+,23159,11545,11614,26,25,1,0,0,0,10,10,0,5,5,0,2,2,0,9,8,1
+161,508,District - Baleshwar 08,Bhumij,Rural,Unknown,41,20,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,508,District - Baleshwar 08,Bhumij,Urban,All ages,5041,2603,2438,611,405,206,578,379,199,26,21,5,4,3,1,3,2,1,0,0,0
+163,508,District - Baleshwar 08,Bhumij,Urban,0-5,790,402,388,31,18,13,31,18,13,0,0,0,0,0,0,0,0,0,0,0,0
+164,508,District - Baleshwar 08,Bhumij,Urban,6-14,1291,695,596,462,303,159,462,303,159,0,0,0,0,0,0,0,0,0,0,0,0
+165,508,District - Baleshwar 08,Bhumij,Urban,15-19,473,273,200,95,69,26,79,55,24,11,10,1,2,2,0,3,2,1,0,0,0
+166,508,District - Baleshwar 08,Bhumij,Urban,20-24,352,173,179,20,13,7,6,3,3,13,9,4,1,1,0,0,0,0,0,0,0
+167,508,District - Baleshwar 08,Bhumij,Urban,25+,2124,1057,1067,3,2,1,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0
+168,508,District - Baleshwar 08,Bhumij,Urban,Unknown,11,3,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,509,District - Baleshwar 08,Bhunjia,Total,All ages,4559,2311,2248,478,313,165,464,304,160,11,7,4,2,1,1,1,1,0,0,0,0
+170,509,District - Baleshwar 08,Bhunjia,Total,0-5,751,407,344,20,15,5,20,15,5,0,0,0,0,0,0,0,0,0,0,0,0
+171,509,District - Baleshwar 08,Bhunjia,Total,6-14,1122,571,551,408,265,143,408,265,143,0,0,0,0,0,0,0,0,0,0,0,0
+172,509,District - Baleshwar 08,Bhunjia,Total,15-19,382,200,182,41,26,15,35,23,12,6,3,3,0,0,0,0,0,0,0,0,0
+173,509,District - Baleshwar 08,Bhunjia,Total,20-24,308,147,161,6,5,1,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0
+174,509,District - Baleshwar 08,Bhunjia,Total,25+,1993,985,1008,3,2,1,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0
+175,509,District - Baleshwar 08,Bhunjia,Total,Unknown,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+176,509,District - Baleshwar 08,Bhunjia,Rural,All ages,4467,2272,2195,454,302,152,445,295,150,7,6,1,2,1,1,0,0,0,0,0,0
+177,509,District - Baleshwar 08,Bhunjia,Rural,0-5,735,400,335,19,14,5,19,14,5,0,0,0,0,0,0,0,0,0,0,0,0
+178,509,District - Baleshwar 08,Bhunjia,Rural,6-14,1102,562,540,392,257,135,392,257,135,0,0,0,0,0,0,0,0,0,0,0,0
+179,509,District - Baleshwar 08,Bhunjia,Rural,15-19,377,199,178,37,26,11,33,23,10,4,3,1,0,0,0,0,0,0,0,0,0
+180,509,District - Baleshwar 08,Bhunjia,Rural,20-24,297,143,154,4,4,0,1,1,0,3,3,0,0,0,0,0,0,0,0,0,0
+181,509,District - Baleshwar 08,Bhunjia,Rural,25+,1953,967,986,2,1,1,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0
+182,509,District - Baleshwar 08,Bhunjia,Rural,Unknown,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,509,District - Baleshwar 08,Bhunjia,Urban,All ages,92,39,53,24,11,13,19,9,10,4,1,3,0,0,0,1,1,0,0,0,0
+184,509,District - Baleshwar 08,Bhunjia,Urban,0-5,16,7,9,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,509,District - Baleshwar 08,Bhunjia,Urban,6-14,20,9,11,16,8,8,16,8,8,0,0,0,0,0,0,0,0,0,0,0,0
+186,509,District - Baleshwar 08,Bhunjia,Urban,15-19,5,1,4,4,0,4,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0
+187,509,District - Baleshwar 08,Bhunjia,Urban,20-24,11,4,7,2,1,1,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+188,509,District - Baleshwar 08,Bhunjia,Urban,25+,40,18,22,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+189,509,District - Baleshwar 08,Bhunjia,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,510,District - Baleshwar 08,Binjhal,Total,All ages,90,46,44,6,3,3,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+191,510,District - Baleshwar 08,Binjhal,Total,0-5,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+192,510,District - Baleshwar 08,Binjhal,Total,6-14,23,14,9,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+193,510,District - Baleshwar 08,Binjhal,Total,15-19,8,3,5,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+194,510,District - Baleshwar 08,Binjhal,Total,20-24,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,510,District - Baleshwar 08,Binjhal,Total,25+,38,21,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,510,District - Baleshwar 08,Binjhal,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+197,510,District - Baleshwar 08,Binjhal,Rural,All ages,90,46,44,6,3,3,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+198,510,District - Baleshwar 08,Binjhal,Rural,0-5,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+199,510,District - Baleshwar 08,Binjhal,Rural,6-14,23,14,9,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+200,510,District - Baleshwar 08,Binjhal,Rural,15-19,8,3,5,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+201,510,District - Baleshwar 08,Binjhal,Rural,20-24,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,510,District - Baleshwar 08,Binjhal,Rural,25+,38,21,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,510,District - Baleshwar 08,Binjhal,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+204,510,District - Baleshwar 08,Binjhal,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,510,District - Baleshwar 08,Binjhal,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+206,510,District - Baleshwar 08,Binjhal,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+207,510,District - Baleshwar 08,Binjhal,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,510,District - Baleshwar 08,Binjhal,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+209,510,District - Baleshwar 08,Binjhal,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+210,510,District - Baleshwar 08,Binjhal,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,513,District - Baleshwar 08,Bondo Poraja,Total,All ages,16,10,6,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,513,District - Baleshwar 08,Bondo Poraja,Total,0-5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+213,513,District - Baleshwar 08,Bondo Poraja,Total,6-14,3,2,1,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,513,District - Baleshwar 08,Bondo Poraja,Total,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,513,District - Baleshwar 08,Bondo Poraja,Total,20-24,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+216,513,District - Baleshwar 08,Bondo Poraja,Total,25+,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+217,513,District - Baleshwar 08,Bondo Poraja,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+218,513,District - Baleshwar 08,Bondo Poraja,Rural,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+219,513,District - Baleshwar 08,Bondo Poraja,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+220,513,District - Baleshwar 08,Bondo Poraja,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+221,513,District - Baleshwar 08,Bondo Poraja,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,513,District - Baleshwar 08,Bondo Poraja,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,513,District - Baleshwar 08,Bondo Poraja,Rural,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,513,District - Baleshwar 08,Bondo Poraja,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+225,513,District - Baleshwar 08,Bondo Poraja,Urban,All ages,16,10,6,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,513,District - Baleshwar 08,Bondo Poraja,Urban,0-5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,513,District - Baleshwar 08,Bondo Poraja,Urban,6-14,3,2,1,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,513,District - Baleshwar 08,Bondo Poraja,Urban,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,513,District - Baleshwar 08,Bondo Poraja,Urban,20-24,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,513,District - Baleshwar 08,Bondo Poraja,Urban,25+,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+231,513,District - Baleshwar 08,Bondo Poraja,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,516,District - Baleshwar 08,Desua Bhumij,Total,All ages,6,4,2,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,516,District - Baleshwar 08,Desua Bhumij,Total,0-5,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,516,District - Baleshwar 08,Desua Bhumij,Total,6-14,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,516,District - Baleshwar 08,Desua Bhumij,Total,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,516,District - Baleshwar 08,Desua Bhumij,Total,20-24,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,516,District - Baleshwar 08,Desua Bhumij,Total,25+,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,516,District - Baleshwar 08,Desua Bhumij,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,516,District - Baleshwar 08,Desua Bhumij,Rural,All ages,6,4,2,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+240,516,District - Baleshwar 08,Desua Bhumij,Rural,0-5,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,516,District - Baleshwar 08,Desua Bhumij,Rural,6-14,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,516,District - Baleshwar 08,Desua Bhumij,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,516,District - Baleshwar 08,Desua Bhumij,Rural,20-24,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,516,District - Baleshwar 08,Desua Bhumij,Rural,25+,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,516,District - Baleshwar 08,Desua Bhumij,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,516,District - Baleshwar 08,Desua Bhumij,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,516,District - Baleshwar 08,Desua Bhumij,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,516,District - Baleshwar 08,Desua Bhumij,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,516,District - Baleshwar 08,Desua Bhumij,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,516,District - Baleshwar 08,Desua Bhumij,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,516,District - Baleshwar 08,Desua Bhumij,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+252,516,District - Baleshwar 08,Desua Bhumij,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+253,517,District - Baleshwar 08,Dharua,Total,All ages,146,74,72,15,8,7,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0
+254,517,District - Baleshwar 08,Dharua,Total,0-5,20,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,517,District - Baleshwar 08,Dharua,Total,6-14,39,19,20,14,7,7,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0
+256,517,District - Baleshwar 08,Dharua,Total,15-19,8,5,3,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,517,District - Baleshwar 08,Dharua,Total,20-24,13,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+258,517,District - Baleshwar 08,Dharua,Total,25+,66,31,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+259,517,District - Baleshwar 08,Dharua,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+260,517,District - Baleshwar 08,Dharua,Rural,All ages,118,64,54,15,8,7,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0
+261,517,District - Baleshwar 08,Dharua,Rural,0-5,15,9,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,517,District - Baleshwar 08,Dharua,Rural,6-14,30,17,13,14,7,7,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0
+263,517,District - Baleshwar 08,Dharua,Rural,15-19,6,4,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,517,District - Baleshwar 08,Dharua,Rural,20-24,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,517,District - Baleshwar 08,Dharua,Rural,25+,56,27,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266,517,District - Baleshwar 08,Dharua,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+267,517,District - Baleshwar 08,Dharua,Urban,All ages,28,10,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,517,District - Baleshwar 08,Dharua,Urban,0-5,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+269,517,District - Baleshwar 08,Dharua,Urban,6-14,9,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,517,District - Baleshwar 08,Dharua,Urban,15-19,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,517,District - Baleshwar 08,Dharua,Urban,20-24,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,517,District - Baleshwar 08,Dharua,Urban,25+,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+273,517,District - Baleshwar 08,Dharua,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,518,District - Baleshwar 08,Didayi,Total,All ages,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,518,District - Baleshwar 08,Didayi,Total,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,518,District - Baleshwar 08,Didayi,Total,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,518,District - Baleshwar 08,Didayi,Total,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,518,District - Baleshwar 08,Didayi,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,518,District - Baleshwar 08,Didayi,Total,25+,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,518,District - Baleshwar 08,Didayi,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,518,District - Baleshwar 08,Didayi,Rural,All ages,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+282,518,District - Baleshwar 08,Didayi,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+283,518,District - Baleshwar 08,Didayi,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,518,District - Baleshwar 08,Didayi,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,518,District - Baleshwar 08,Didayi,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,518,District - Baleshwar 08,Didayi,Rural,25+,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,518,District - Baleshwar 08,Didayi,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,518,District - Baleshwar 08,Didayi,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,518,District - Baleshwar 08,Didayi,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,518,District - Baleshwar 08,Didayi,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,518,District - Baleshwar 08,Didayi,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,518,District - Baleshwar 08,Didayi,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,518,District - Baleshwar 08,Didayi,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+294,518,District - Baleshwar 08,Didayi,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,522,District - Baleshwar 08,Gond etc.,Total,All ages,36,19,17,9,4,5,7,2,5,1,1,0,1,1,0,0,0,0,0,0,0
+296,522,District - Baleshwar 08,Gond etc.,Total,0-5,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297,522,District - Baleshwar 08,Gond etc.,Total,6-14,7,3,4,5,2,3,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0
+298,522,District - Baleshwar 08,Gond etc.,Total,15-19,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+299,522,District - Baleshwar 08,Gond etc.,Total,20-24,5,2,3,2,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+300,522,District - Baleshwar 08,Gond etc.,Total,25+,16,10,6,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+301,522,District - Baleshwar 08,Gond etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,522,District - Baleshwar 08,Gond etc.,Rural,All ages,9,5,4,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+303,522,District - Baleshwar 08,Gond etc.,Rural,0-5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,522,District - Baleshwar 08,Gond etc.,Rural,6-14,3,2,1,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+305,522,District - Baleshwar 08,Gond etc.,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,522,District - Baleshwar 08,Gond etc.,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,522,District - Baleshwar 08,Gond etc.,Rural,25+,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+308,522,District - Baleshwar 08,Gond etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+309,522,District - Baleshwar 08,Gond etc.,Urban,All ages,27,14,13,7,3,4,5,1,4,1,1,0,1,1,0,0,0,0,0,0,0
+310,522,District - Baleshwar 08,Gond etc.,Urban,0-5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+311,522,District - Baleshwar 08,Gond etc.,Urban,6-14,4,1,3,3,1,2,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+312,522,District - Baleshwar 08,Gond etc.,Urban,15-19,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+313,522,District - Baleshwar 08,Gond etc.,Urban,20-24,5,2,3,2,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+314,522,District - Baleshwar 08,Gond etc.,Urban,25+,12,8,4,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+315,522,District - Baleshwar 08,Gond etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,523,District - Baleshwar 08,Ho,Total,All ages,97,48,49,55,28,27,55,28,27,0,0,0,0,0,0,0,0,0,0,0,0
+317,523,District - Baleshwar 08,Ho,Total,0-5,37,12,25,19,3,16,19,3,16,0,0,0,0,0,0,0,0,0,0,0,0
+318,523,District - Baleshwar 08,Ho,Total,6-14,41,27,14,36,25,11,36,25,11,0,0,0,0,0,0,0,0,0,0,0,0
+319,523,District - Baleshwar 08,Ho,Total,15-19,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+320,523,District - Baleshwar 08,Ho,Total,20-24,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,523,District - Baleshwar 08,Ho,Total,25+,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+322,523,District - Baleshwar 08,Ho,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,523,District - Baleshwar 08,Ho,Rural,All ages,97,48,49,55,28,27,55,28,27,0,0,0,0,0,0,0,0,0,0,0,0
+324,523,District - Baleshwar 08,Ho,Rural,0-5,37,12,25,19,3,16,19,3,16,0,0,0,0,0,0,0,0,0,0,0,0
+325,523,District - Baleshwar 08,Ho,Rural,6-14,41,27,14,36,25,11,36,25,11,0,0,0,0,0,0,0,0,0,0,0,0
+326,523,District - Baleshwar 08,Ho,Rural,15-19,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+327,523,District - Baleshwar 08,Ho,Rural,20-24,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+328,523,District - Baleshwar 08,Ho,Rural,25+,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+329,523,District - Baleshwar 08,Ho,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,523,District - Baleshwar 08,Ho,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,523,District - Baleshwar 08,Ho,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,523,District - Baleshwar 08,Ho,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+333,523,District - Baleshwar 08,Ho,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,523,District - Baleshwar 08,Ho,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+335,523,District - Baleshwar 08,Ho,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,523,District - Baleshwar 08,Ho,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,524,District - Baleshwar 08,Holva,Total,All ages,5,4,1,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,524,District - Baleshwar 08,Holva,Total,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,524,District - Baleshwar 08,Holva,Total,6-14,2,2,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,524,District - Baleshwar 08,Holva,Total,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341,524,District - Baleshwar 08,Holva,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+342,524,District - Baleshwar 08,Holva,Total,25+,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+343,524,District - Baleshwar 08,Holva,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,524,District - Baleshwar 08,Holva,Rural,All ages,5,4,1,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+345,524,District - Baleshwar 08,Holva,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+346,524,District - Baleshwar 08,Holva,Rural,6-14,2,2,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+347,524,District - Baleshwar 08,Holva,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,524,District - Baleshwar 08,Holva,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,524,District - Baleshwar 08,Holva,Rural,25+,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,524,District - Baleshwar 08,Holva,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,524,District - Baleshwar 08,Holva,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,524,District - Baleshwar 08,Holva,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,524,District - Baleshwar 08,Holva,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,524,District - Baleshwar 08,Holva,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,524,District - Baleshwar 08,Holva,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+356,524,District - Baleshwar 08,Holva,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+357,524,District - Baleshwar 08,Holva,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,526,District - Baleshwar 08,Juang,Total,All ages,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+359,526,District - Baleshwar 08,Juang,Total,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+360,526,District - Baleshwar 08,Juang,Total,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+361,526,District - Baleshwar 08,Juang,Total,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,526,District - Baleshwar 08,Juang,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,526,District - Baleshwar 08,Juang,Total,25+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+364,526,District - Baleshwar 08,Juang,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+365,526,District - Baleshwar 08,Juang,Rural,All ages,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+366,526,District - Baleshwar 08,Juang,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+367,526,District - Baleshwar 08,Juang,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,526,District - Baleshwar 08,Juang,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+369,526,District - Baleshwar 08,Juang,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+370,526,District - Baleshwar 08,Juang,Rural,25+,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+371,526,District - Baleshwar 08,Juang,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+372,526,District - Baleshwar 08,Juang,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,526,District - Baleshwar 08,Juang,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,526,District - Baleshwar 08,Juang,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375,526,District - Baleshwar 08,Juang,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+376,526,District - Baleshwar 08,Juang,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,526,District - Baleshwar 08,Juang,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+378,526,District - Baleshwar 08,Juang,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,527,District - Baleshwar 08,Kandha Gauda,Total,All ages,125,68,57,18,9,9,18,9,9,0,0,0,0,0,0,0,0,0,0,0,0
+380,527,District - Baleshwar 08,Kandha Gauda,Total,0-5,19,13,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+381,527,District - Baleshwar 08,Kandha Gauda,Total,6-14,27,16,11,15,8,7,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0
+382,527,District - Baleshwar 08,Kandha Gauda,Total,15-19,14,6,8,3,1,2,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+383,527,District - Baleshwar 08,Kandha Gauda,Total,20-24,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+384,527,District - Baleshwar 08,Kandha Gauda,Total,25+,62,31,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,527,District - Baleshwar 08,Kandha Gauda,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+386,527,District - Baleshwar 08,Kandha Gauda,Rural,All ages,78,40,38,9,3,6,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0
+387,527,District - Baleshwar 08,Kandha Gauda,Rural,0-5,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,527,District - Baleshwar 08,Kandha Gauda,Rural,6-14,18,10,8,6,2,4,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0
+389,527,District - Baleshwar 08,Kandha Gauda,Rural,15-19,10,6,4,3,1,2,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+390,527,District - Baleshwar 08,Kandha Gauda,Rural,20-24,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+391,527,District - Baleshwar 08,Kandha Gauda,Rural,25+,37,17,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,527,District - Baleshwar 08,Kandha Gauda,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,527,District - Baleshwar 08,Kandha Gauda,Urban,All ages,47,28,19,9,6,3,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0
+394,527,District - Baleshwar 08,Kandha Gauda,Urban,0-5,8,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+395,527,District - Baleshwar 08,Kandha Gauda,Urban,6-14,9,6,3,9,6,3,9,6,3,0,0,0,0,0,0,0,0,0,0,0,0
+396,527,District - Baleshwar 08,Kandha Gauda,Urban,15-19,4,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,527,District - Baleshwar 08,Kandha Gauda,Urban,20-24,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+398,527,District - Baleshwar 08,Kandha Gauda,Urban,25+,25,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,527,District - Baleshwar 08,Kandha Gauda,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+400,528,District - Baleshwar 08,Kawar,Total,All ages,4,3,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+401,528,District - Baleshwar 08,Kawar,Total,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+402,528,District - Baleshwar 08,Kawar,Total,6-14,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+403,528,District - Baleshwar 08,Kawar,Total,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+404,528,District - Baleshwar 08,Kawar,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+405,528,District - Baleshwar 08,Kawar,Total,25+,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+406,528,District - Baleshwar 08,Kawar,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+407,528,District - Baleshwar 08,Kawar,Rural,All ages,4,3,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+408,528,District - Baleshwar 08,Kawar,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+409,528,District - Baleshwar 08,Kawar,Rural,6-14,1,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+410,528,District - Baleshwar 08,Kawar,Rural,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+411,528,District - Baleshwar 08,Kawar,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+412,528,District - Baleshwar 08,Kawar,Rural,25+,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+413,528,District - Baleshwar 08,Kawar,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+414,528,District - Baleshwar 08,Kawar,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+415,528,District - Baleshwar 08,Kawar,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+416,528,District - Baleshwar 08,Kawar,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+417,528,District - Baleshwar 08,Kawar,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,528,District - Baleshwar 08,Kawar,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+419,528,District - Baleshwar 08,Kawar,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+420,528,District - Baleshwar 08,Kawar,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+421,529,District - Baleshwar 08,Kharia etc.,Total,All ages,1025,509,516,18,13,5,18,13,5,0,0,0,0,0,0,0,0,0,0,0,0
+422,529,District - Baleshwar 08,Kharia etc.,Total,0-5,148,80,68,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+423,529,District - Baleshwar 08,Kharia etc.,Total,6-14,221,105,116,15,11,4,15,11,4,0,0,0,0,0,0,0,0,0,0,0,0
+424,529,District - Baleshwar 08,Kharia etc.,Total,15-19,78,34,44,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+425,529,District - Baleshwar 08,Kharia etc.,Total,20-24,67,32,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,529,District - Baleshwar 08,Kharia etc.,Total,25+,511,258,253,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,529,District - Baleshwar 08,Kharia etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+428,529,District - Baleshwar 08,Kharia etc.,Rural,All ages,999,494,505,16,12,4,16,12,4,0,0,0,0,0,0,0,0,0,0,0,0
+429,529,District - Baleshwar 08,Kharia etc.,Rural,0-5,143,77,66,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+430,529,District - Baleshwar 08,Kharia etc.,Rural,6-14,217,103,114,13,10,3,13,10,3,0,0,0,0,0,0,0,0,0,0,0,0
+431,529,District - Baleshwar 08,Kharia etc.,Rural,15-19,76,32,44,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+432,529,District - Baleshwar 08,Kharia etc.,Rural,20-24,67,32,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+433,529,District - Baleshwar 08,Kharia etc.,Rural,25+,496,250,246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+434,529,District - Baleshwar 08,Kharia etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+435,529,District - Baleshwar 08,Kharia etc.,Urban,All ages,26,15,11,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+436,529,District - Baleshwar 08,Kharia etc.,Urban,0-5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+437,529,District - Baleshwar 08,Kharia etc.,Urban,6-14,4,2,2,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+438,529,District - Baleshwar 08,Kharia etc.,Urban,15-19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,529,District - Baleshwar 08,Kharia etc.,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+440,529,District - Baleshwar 08,Kharia etc.,Urban,25+,15,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+441,529,District - Baleshwar 08,Kharia etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,530,District - Baleshwar 08,Kharwar,Total,All ages,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+443,530,District - Baleshwar 08,Kharwar,Total,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+444,530,District - Baleshwar 08,Kharwar,Total,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+445,530,District - Baleshwar 08,Kharwar,Total,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+446,530,District - Baleshwar 08,Kharwar,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+447,530,District - Baleshwar 08,Kharwar,Total,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+448,530,District - Baleshwar 08,Kharwar,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,530,District - Baleshwar 08,Kharwar,Rural,All ages,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+450,530,District - Baleshwar 08,Kharwar,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+451,530,District - Baleshwar 08,Kharwar,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+452,530,District - Baleshwar 08,Kharwar,Rural,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+453,530,District - Baleshwar 08,Kharwar,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+454,530,District - Baleshwar 08,Kharwar,Rural,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,530,District - Baleshwar 08,Kharwar,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+456,530,District - Baleshwar 08,Kharwar,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+457,530,District - Baleshwar 08,Kharwar,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+458,530,District - Baleshwar 08,Kharwar,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+459,530,District - Baleshwar 08,Kharwar,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+460,530,District - Baleshwar 08,Kharwar,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+461,530,District - Baleshwar 08,Kharwar,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+462,530,District - Baleshwar 08,Kharwar,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+463,531,District - Baleshwar 08,Khond etc.,Total,All ages,632,365,267,95,54,41,89,49,40,5,4,1,1,1,0,0,0,0,0,0,0
+464,531,District - Baleshwar 08,Khond etc.,Total,0-5,58,31,27,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+465,531,District - Baleshwar 08,Khond etc.,Total,6-14,148,80,68,69,36,33,69,36,33,0,0,0,0,0,0,0,0,0,0,0,0
+466,531,District - Baleshwar 08,Khond etc.,Total,15-19,79,48,31,16,11,5,13,8,5,2,2,0,1,1,0,0,0,0,0,0,0
+467,531,District - Baleshwar 08,Khond etc.,Total,20-24,82,65,17,6,5,1,3,3,0,3,2,1,0,0,0,0,0,0,0,0,0
+468,531,District - Baleshwar 08,Khond etc.,Total,25+,265,141,124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+469,531,District - Baleshwar 08,Khond etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,531,District - Baleshwar 08,Khond etc.,Rural,All ages,488,295,193,67,39,28,62,35,27,5,4,1,0,0,0,0,0,0,0,0,0
+471,531,District - Baleshwar 08,Khond etc.,Rural,0-5,42,24,18,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+472,531,District - Baleshwar 08,Khond etc.,Rural,6-14,106,57,49,48,25,23,48,25,23,0,0,0,0,0,0,0,0,0,0,0,0
+473,531,District - Baleshwar 08,Khond etc.,Rural,15-19,58,37,21,12,9,3,10,7,3,2,2,0,0,0,0,0,0,0,0,0,0
+474,531,District - Baleshwar 08,Khond etc.,Rural,20-24,75,61,14,6,5,1,3,3,0,3,2,1,0,0,0,0,0,0,0,0,0
+475,531,District - Baleshwar 08,Khond etc.,Rural,25+,207,116,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+476,531,District - Baleshwar 08,Khond etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,531,District - Baleshwar 08,Khond etc.,Urban,All ages,144,70,74,28,15,13,27,14,13,0,0,0,1,1,0,0,0,0,0,0,0
+478,531,District - Baleshwar 08,Khond etc.,Urban,0-5,16,7,9,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+479,531,District - Baleshwar 08,Khond etc.,Urban,6-14,42,23,19,21,11,10,21,11,10,0,0,0,0,0,0,0,0,0,0,0,0
+480,531,District - Baleshwar 08,Khond etc.,Urban,15-19,21,11,10,4,2,2,3,1,2,0,0,0,1,1,0,0,0,0,0,0,0
+481,531,District - Baleshwar 08,Khond etc.,Urban,20-24,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+482,531,District - Baleshwar 08,Khond etc.,Urban,25+,58,25,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+483,531,District - Baleshwar 08,Khond etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+484,532,District - Baleshwar 08,Kisan,Total,All ages,25,22,3,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+485,532,District - Baleshwar 08,Kisan,Total,0-5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+486,532,District - Baleshwar 08,Kisan,Total,6-14,2,2,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,532,District - Baleshwar 08,Kisan,Total,15-19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,532,District - Baleshwar 08,Kisan,Total,20-24,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+489,532,District - Baleshwar 08,Kisan,Total,25+,12,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+490,532,District - Baleshwar 08,Kisan,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+491,532,District - Baleshwar 08,Kisan,Rural,All ages,21,19,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+492,532,District - Baleshwar 08,Kisan,Rural,0-5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+493,532,District - Baleshwar 08,Kisan,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+494,532,District - Baleshwar 08,Kisan,Rural,15-19,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,532,District - Baleshwar 08,Kisan,Rural,20-24,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496,532,District - Baleshwar 08,Kisan,Rural,25+,10,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+497,532,District - Baleshwar 08,Kisan,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,532,District - Baleshwar 08,Kisan,Urban,All ages,4,3,1,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,532,District - Baleshwar 08,Kisan,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,532,District - Baleshwar 08,Kisan,Urban,6-14,2,2,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,532,District - Baleshwar 08,Kisan,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+502,532,District - Baleshwar 08,Kisan,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+503,532,District - Baleshwar 08,Kisan,Urban,25+,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+504,532,District - Baleshwar 08,Kisan,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+505,533,District - Baleshwar 08,Kol,Total,All ages,1909,978,931,163,115,48,152,109,43,9,6,3,2,0,2,0,0,0,0,0,0
+506,533,District - Baleshwar 08,Kol,Total,0-5,323,169,154,9,5,4,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0
+507,533,District - Baleshwar 08,Kol,Total,6-14,469,243,226,129,93,36,129,93,36,0,0,0,0,0,0,0,0,0,0,0,0
+508,533,District - Baleshwar 08,Kol,Total,15-19,153,75,78,15,11,4,13,10,3,2,1,1,0,0,0,0,0,0,0,0,0
+509,533,District - Baleshwar 08,Kol,Total,20-24,146,77,69,9,6,3,1,1,0,7,5,2,1,0,1,0,0,0,0,0,0
+510,533,District - Baleshwar 08,Kol,Total,25+,816,413,403,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+511,533,District - Baleshwar 08,Kol,Total,Unknown,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+512,533,District - Baleshwar 08,Kol,Rural,All ages,1816,925,891,160,112,48,149,106,43,9,6,3,2,0,2,0,0,0,0,0,0
+513,533,District - Baleshwar 08,Kol,Rural,0-5,302,155,147,9,5,4,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0
+514,533,District - Baleshwar 08,Kol,Rural,6-14,449,229,220,126,90,36,126,90,36,0,0,0,0,0,0,0,0,0,0,0,0
+515,533,District - Baleshwar 08,Kol,Rural,15-19,145,71,74,15,11,4,13,10,3,2,1,1,0,0,0,0,0,0,0,0,0
+516,533,District - Baleshwar 08,Kol,Rural,20-24,141,76,65,9,6,3,1,1,0,7,5,2,1,0,1,0,0,0,0,0,0
+517,533,District - Baleshwar 08,Kol,Rural,25+,778,393,385,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+518,533,District - Baleshwar 08,Kol,Rural,Unknown,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+519,533,District - Baleshwar 08,Kol,Urban,All ages,93,53,40,3,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+520,533,District - Baleshwar 08,Kol,Urban,0-5,21,14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+521,533,District - Baleshwar 08,Kol,Urban,6-14,20,14,6,3,3,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+522,533,District - Baleshwar 08,Kol,Urban,15-19,8,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+523,533,District - Baleshwar 08,Kol,Urban,20-24,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+524,533,District - Baleshwar 08,Kol,Urban,25+,38,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+525,533,District - Baleshwar 08,Kol,Urban,Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+526,534,District - Baleshwar 08,Kolah Loharas etc.,Total,All ages,148,78,70,19,10,9,19,10,9,0,0,0,0,0,0,0,0,0,0,0,0
+527,534,District - Baleshwar 08,Kolah Loharas etc.,Total,0-5,25,16,9,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+528,534,District - Baleshwar 08,Kolah Loharas etc.,Total,6-14,37,19,18,14,7,7,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0
+529,534,District - Baleshwar 08,Kolah Loharas etc.,Total,15-19,12,7,5,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+530,534,District - Baleshwar 08,Kolah Loharas etc.,Total,20-24,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,534,District - Baleshwar 08,Kolah Loharas etc.,Total,25+,64,32,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+532,534,District - Baleshwar 08,Kolah Loharas etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+533,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,All ages,139,73,66,17,10,7,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0
+534,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,0-5,25,16,9,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+535,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,6-14,35,19,16,12,7,5,12,7,5,0,0,0,0,0,0,0,0,0,0,0,0
+536,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,15-19,9,4,5,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+537,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,20-24,10,4,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+538,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,25+,60,30,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+539,534,District - Baleshwar 08,Kolah Loharas etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+540,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,All ages,9,5,4,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+541,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+542,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,6-14,2,0,2,2,0,2,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+543,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,15-19,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+544,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,25+,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+546,534,District - Baleshwar 08,Kolah Loharas etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+547,535,District - Baleshwar 08,Kolha,Total,All ages,40194,20492,19702,3744,2517,1227,3613,2408,1205,110,94,16,9,7,2,8,6,2,4,2,2
+548,535,District - Baleshwar 08,Kolha,Total,0-5,6590,3359,3231,136,83,53,136,83,53,0,0,0,0,0,0,0,0,0,0,0,0
+549,535,District - Baleshwar 08,Kolha,Total,6-14,10461,5427,5034,3062,2023,1039,3062,2023,1039,0,0,0,0,0,0,0,0,0,0,0,0
+550,535,District - Baleshwar 08,Kolha,Total,15-19,3463,1814,1649,450,328,122,391,284,107,52,40,12,2,1,1,5,3,2,0,0,0
+551,535,District - Baleshwar 08,Kolha,Total,20-24,2965,1556,1409,79,69,10,24,18,6,52,48,4,2,2,0,1,1,0,0,0,0
+552,535,District - Baleshwar 08,Kolha,Total,25+,16679,8318,8361,17,14,3,0,0,0,6,6,0,5,4,1,2,2,0,4,2,2
+553,535,District - Baleshwar 08,Kolha,Total,Unknown,36,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+554,535,District - Baleshwar 08,Kolha,Rural,All ages,37182,18985,18197,3488,2354,1134,3369,2255,1114,98,84,14,9,7,2,8,6,2,4,2,2
+555,535,District - Baleshwar 08,Kolha,Rural,0-5,6097,3118,2979,126,76,50,126,76,50,0,0,0,0,0,0,0,0,0,0,0,0
+556,535,District - Baleshwar 08,Kolha,Rural,6-14,9694,5013,4681,2855,1893,962,2855,1893,962,0,0,0,0,0,0,0,0,0,0,0,0
+557,535,District - Baleshwar 08,Kolha,Rural,15-19,3198,1684,1514,417,307,110,364,268,96,46,35,11,2,1,1,5,3,2,0,0,0
+558,535,District - Baleshwar 08,Kolha,Rural,20-24,2752,1455,1297,74,65,9,24,18,6,47,44,3,2,2,0,1,1,0,0,0,0
+559,535,District - Baleshwar 08,Kolha,Rural,25+,15408,7698,7710,16,13,3,0,0,0,5,5,0,5,4,1,2,2,0,4,2,2
+560,535,District - Baleshwar 08,Kolha,Rural,Unknown,33,17,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+561,535,District - Baleshwar 08,Kolha,Urban,All ages,3012,1507,1505,256,163,93,244,153,91,12,10,2,0,0,0,0,0,0,0,0,0
+562,535,District - Baleshwar 08,Kolha,Urban,0-5,493,241,252,10,7,3,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0
+563,535,District - Baleshwar 08,Kolha,Urban,6-14,767,414,353,207,130,77,207,130,77,0,0,0,0,0,0,0,0,0,0,0,0
+564,535,District - Baleshwar 08,Kolha,Urban,15-19,265,130,135,33,21,12,27,16,11,6,5,1,0,0,0,0,0,0,0,0,0
+565,535,District - Baleshwar 08,Kolha,Urban,20-24,213,101,112,5,4,1,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0
+566,535,District - Baleshwar 08,Kolha,Urban,25+,1271,620,651,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+567,535,District - Baleshwar 08,Kolha,Urban,Unknown,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+568,536,District - Baleshwar 08,Koli etc.,Total,All ages,42,22,20,7,4,3,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0
+569,536,District - Baleshwar 08,Koli etc.,Total,0-5,7,4,3,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+570,536,District - Baleshwar 08,Koli etc.,Total,6-14,12,6,6,6,4,2,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0
+571,536,District - Baleshwar 08,Koli etc.,Total,15-19,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+572,536,District - Baleshwar 08,Koli etc.,Total,20-24,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+573,536,District - Baleshwar 08,Koli etc.,Total,25+,17,7,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+574,536,District - Baleshwar 08,Koli etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+575,536,District - Baleshwar 08,Koli etc.,Rural,All ages,27,14,13,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+576,536,District - Baleshwar 08,Koli etc.,Rural,0-5,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+577,536,District - Baleshwar 08,Koli etc.,Rural,6-14,7,2,5,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+578,536,District - Baleshwar 08,Koli etc.,Rural,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+579,536,District - Baleshwar 08,Koli etc.,Rural,20-24,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+580,536,District - Baleshwar 08,Koli etc.,Rural,25+,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+581,536,District - Baleshwar 08,Koli etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+582,536,District - Baleshwar 08,Koli etc.,Urban,All ages,15,8,7,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+583,536,District - Baleshwar 08,Koli etc.,Urban,0-5,3,1,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+584,536,District - Baleshwar 08,Koli etc.,Urban,6-14,5,4,1,4,3,1,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+585,536,District - Baleshwar 08,Koli etc.,Urban,15-19,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+586,536,District - Baleshwar 08,Koli etc.,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+587,536,District - Baleshwar 08,Koli etc.,Urban,25+,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+588,536,District - Baleshwar 08,Koli etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+589,537,District - Baleshwar 08,Kondadora,Total,All ages,1330,691,639,318,184,134,306,175,131,12,9,3,0,0,0,0,0,0,0,0,0
+590,537,District - Baleshwar 08,Kondadora,Total,0-5,186,98,88,11,7,4,11,7,4,0,0,0,0,0,0,0,0,0,0,0,0
+591,537,District - Baleshwar 08,Kondadora,Total,6-14,313,177,136,237,135,102,237,135,102,0,0,0,0,0,0,0,0,0,0,0,0
+592,537,District - Baleshwar 08,Kondadora,Total,15-19,138,61,77,60,34,26,56,32,24,4,2,2,0,0,0,0,0,0,0,0,0
+593,537,District - Baleshwar 08,Kondadora,Total,20-24,91,48,43,9,7,2,2,1,1,7,6,1,0,0,0,0,0,0,0,0,0
+594,537,District - Baleshwar 08,Kondadora,Total,25+,602,307,295,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+595,537,District - Baleshwar 08,Kondadora,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+596,537,District - Baleshwar 08,Kondadora,Rural,All ages,1056,555,501,259,155,104,248,147,101,11,8,3,0,0,0,0,0,0,0,0,0
+597,537,District - Baleshwar 08,Kondadora,Rural,0-5,148,77,71,10,7,3,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0
+598,537,District - Baleshwar 08,Kondadora,Rural,6-14,249,145,104,191,112,79,191,112,79,0,0,0,0,0,0,0,0,0,0,0,0
+599,537,District - Baleshwar 08,Kondadora,Rural,15-19,110,49,61,49,29,20,45,27,18,4,2,2,0,0,0,0,0,0,0,0,0
+600,537,District - Baleshwar 08,Kondadora,Rural,20-24,73,39,34,8,6,2,2,1,1,6,5,1,0,0,0,0,0,0,0,0,0
+601,537,District - Baleshwar 08,Kondadora,Rural,25+,476,245,231,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+602,537,District - Baleshwar 08,Kondadora,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+603,537,District - Baleshwar 08,Kondadora,Urban,All ages,274,136,138,59,29,30,58,28,30,1,1,0,0,0,0,0,0,0,0,0,0
+604,537,District - Baleshwar 08,Kondadora,Urban,0-5,38,21,17,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+605,537,District - Baleshwar 08,Kondadora,Urban,6-14,64,32,32,46,23,23,46,23,23,0,0,0,0,0,0,0,0,0,0,0,0
+606,537,District - Baleshwar 08,Kondadora,Urban,15-19,28,12,16,11,5,6,11,5,6,0,0,0,0,0,0,0,0,0,0,0,0
+607,537,District - Baleshwar 08,Kondadora,Urban,20-24,18,9,9,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+608,537,District - Baleshwar 08,Kondadora,Urban,25+,126,62,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+609,537,District - Baleshwar 08,Kondadora,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+610,538,District - Baleshwar 08,Kora,Total,All ages,2149,1094,1055,294,195,99,284,187,97,10,8,2,0,0,0,0,0,0,0,0,0
+611,538,District - Baleshwar 08,Kora,Total,0-5,309,155,154,9,3,6,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0
+612,538,District - Baleshwar 08,Kora,Total,6-14,520,259,261,236,154,82,236,154,82,0,0,0,0,0,0,0,0,0,0,0,0
+613,538,District - Baleshwar 08,Kora,Total,15-19,208,116,92,38,28,10,35,26,9,3,2,1,0,0,0,0,0,0,0,0,0
+614,538,District - Baleshwar 08,Kora,Total,20-24,156,85,71,11,10,1,4,4,0,7,6,1,0,0,0,0,0,0,0,0,0
+615,538,District - Baleshwar 08,Kora,Total,25+,956,479,477,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+616,538,District - Baleshwar 08,Kora,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+617,538,District - Baleshwar 08,Kora,Rural,All ages,1986,1006,980,284,188,96,276,181,95,8,7,1,0,0,0,0,0,0,0,0,0
+618,538,District - Baleshwar 08,Kora,Rural,0-5,286,143,143,9,3,6,9,3,6,0,0,0,0,0,0,0,0,0,0,0,0
+619,538,District - Baleshwar 08,Kora,Rural,6-14,478,240,238,229,149,80,229,149,80,0,0,0,0,0,0,0,0,0,0,0,0
+620,538,District - Baleshwar 08,Kora,Rural,15-19,193,105,88,35,26,9,34,25,9,1,1,0,0,0,0,0,0,0,0,0,0
+621,538,District - Baleshwar 08,Kora,Rural,20-24,139,75,64,11,10,1,4,4,0,7,6,1,0,0,0,0,0,0,0,0,0
+622,538,District - Baleshwar 08,Kora,Rural,25+,890,443,447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+623,538,District - Baleshwar 08,Kora,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+624,538,District - Baleshwar 08,Kora,Urban,All ages,163,88,75,10,7,3,8,6,2,2,1,1,0,0,0,0,0,0,0,0,0
+625,538,District - Baleshwar 08,Kora,Urban,0-5,23,12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+626,538,District - Baleshwar 08,Kora,Urban,6-14,42,19,23,7,5,2,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0
+627,538,District - Baleshwar 08,Kora,Urban,15-19,15,11,4,3,2,1,1,1,0,2,1,1,0,0,0,0,0,0,0,0,0
+628,538,District - Baleshwar 08,Kora,Urban,20-24,17,10,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+629,538,District - Baleshwar 08,Kora,Urban,25+,66,36,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+630,538,District - Baleshwar 08,Kora,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+631,539,District - Baleshwar 08,Korua,Total,All ages,205,99,106,24,17,7,24,17,7,0,0,0,0,0,0,0,0,0,0,0,0
+632,539,District - Baleshwar 08,Korua,Total,0-5,28,8,20,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+633,539,District - Baleshwar 08,Korua,Total,6-14,47,26,21,17,13,4,17,13,4,0,0,0,0,0,0,0,0,0,0,0,0
+634,539,District - Baleshwar 08,Korua,Total,15-19,19,10,9,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+635,539,District - Baleshwar 08,Korua,Total,20-24,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+636,539,District - Baleshwar 08,Korua,Total,25+,90,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+637,539,District - Baleshwar 08,Korua,Total,Unknown,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+638,539,District - Baleshwar 08,Korua,Rural,All ages,205,99,106,24,17,7,24,17,7,0,0,0,0,0,0,0,0,0,0,0,0
+639,539,District - Baleshwar 08,Korua,Rural,0-5,28,8,20,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+640,539,District - Baleshwar 08,Korua,Rural,6-14,47,26,21,17,13,4,17,13,4,0,0,0,0,0,0,0,0,0,0,0,0
+641,539,District - Baleshwar 08,Korua,Rural,15-19,19,10,9,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+642,539,District - Baleshwar 08,Korua,Rural,20-24,18,8,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+643,539,District - Baleshwar 08,Korua,Rural,25+,90,45,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+644,539,District - Baleshwar 08,Korua,Rural,Unknown,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+645,539,District - Baleshwar 08,Korua,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+646,539,District - Baleshwar 08,Korua,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+647,539,District - Baleshwar 08,Korua,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+648,539,District - Baleshwar 08,Korua,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+649,539,District - Baleshwar 08,Korua,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+650,539,District - Baleshwar 08,Korua,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+651,539,District - Baleshwar 08,Korua,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+652,541,District - Baleshwar 08,Koya,Total,All ages,82,37,45,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+653,541,District - Baleshwar 08,Koya,Total,0-5,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+654,541,District - Baleshwar 08,Koya,Total,6-14,20,8,12,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+655,541,District - Baleshwar 08,Koya,Total,15-19,7,4,3,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+656,541,District - Baleshwar 08,Koya,Total,20-24,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+657,541,District - Baleshwar 08,Koya,Total,25+,38,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+658,541,District - Baleshwar 08,Koya,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+659,541,District - Baleshwar 08,Koya,Rural,All ages,82,37,45,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+660,541,District - Baleshwar 08,Koya,Rural,0-5,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+661,541,District - Baleshwar 08,Koya,Rural,6-14,20,8,12,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+662,541,District - Baleshwar 08,Koya,Rural,15-19,7,4,3,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+663,541,District - Baleshwar 08,Koya,Rural,20-24,6,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+664,541,District - Baleshwar 08,Koya,Rural,25+,38,20,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+665,541,District - Baleshwar 08,Koya,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+666,541,District - Baleshwar 08,Koya,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+667,541,District - Baleshwar 08,Koya,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+668,541,District - Baleshwar 08,Koya,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+669,541,District - Baleshwar 08,Koya,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+670,541,District - Baleshwar 08,Koya,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+671,541,District - Baleshwar 08,Koya,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+672,541,District - Baleshwar 08,Koya,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+673,542,District - Baleshwar 08,Kulis,Total,All ages,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+674,542,District - Baleshwar 08,Kulis,Total,0-5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+675,542,District - Baleshwar 08,Kulis,Total,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+676,542,District - Baleshwar 08,Kulis,Total,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+677,542,District - Baleshwar 08,Kulis,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+678,542,District - Baleshwar 08,Kulis,Total,25+,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+679,542,District - Baleshwar 08,Kulis,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+680,542,District - Baleshwar 08,Kulis,Rural,All ages,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+681,542,District - Baleshwar 08,Kulis,Rural,0-5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+682,542,District - Baleshwar 08,Kulis,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+683,542,District - Baleshwar 08,Kulis,Rural,15-19,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+684,542,District - Baleshwar 08,Kulis,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+685,542,District - Baleshwar 08,Kulis,Rural,25+,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+686,542,District - Baleshwar 08,Kulis,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+687,542,District - Baleshwar 08,Kulis,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+688,542,District - Baleshwar 08,Kulis,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+689,542,District - Baleshwar 08,Kulis,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+690,542,District - Baleshwar 08,Kulis,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+691,542,District - Baleshwar 08,Kulis,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+692,542,District - Baleshwar 08,Kulis,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+693,542,District - Baleshwar 08,Kulis,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+694,543,District - Baleshwar 08,Lodha,Total,All ages,150,80,70,8,5,3,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0
+695,543,District - Baleshwar 08,Lodha,Total,0-5,21,11,10,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+696,543,District - Baleshwar 08,Lodha,Total,6-14,33,18,15,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+697,543,District - Baleshwar 08,Lodha,Total,15-19,17,9,8,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+698,543,District - Baleshwar 08,Lodha,Total,20-24,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+699,543,District - Baleshwar 08,Lodha,Total,25+,70,37,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+700,543,District - Baleshwar 08,Lodha,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+701,543,District - Baleshwar 08,Lodha,Rural,All ages,140,73,67,8,5,3,8,5,3,0,0,0,0,0,0,0,0,0,0,0,0
+702,543,District - Baleshwar 08,Lodha,Rural,0-5,21,11,10,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+703,543,District - Baleshwar 08,Lodha,Rural,6-14,30,16,14,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+704,543,District - Baleshwar 08,Lodha,Rural,15-19,15,8,7,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+705,543,District - Baleshwar 08,Lodha,Rural,20-24,7,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+706,543,District - Baleshwar 08,Lodha,Rural,25+,67,35,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+707,543,District - Baleshwar 08,Lodha,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+708,543,District - Baleshwar 08,Lodha,Urban,All ages,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+709,543,District - Baleshwar 08,Lodha,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+710,543,District - Baleshwar 08,Lodha,Urban,6-14,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+711,543,District - Baleshwar 08,Lodha,Urban,15-19,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712,543,District - Baleshwar 08,Lodha,Urban,20-24,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+713,543,District - Baleshwar 08,Lodha,Urban,25+,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+714,543,District - Baleshwar 08,Lodha,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+715,544,District - Baleshwar 08,Madia,Total,All ages,1821,862,959,251,148,103,239,137,102,12,11,1,0,0,0,0,0,0,0,0,0
+716,544,District - Baleshwar 08,Madia,Total,0-5,256,106,150,16,5,11,16,5,11,0,0,0,0,0,0,0,0,0,0,0,0
+717,544,District - Baleshwar 08,Madia,Total,6-14,440,201,239,192,109,83,192,109,83,0,0,0,0,0,0,0,0,0,0,0,0
+718,544,District - Baleshwar 08,Madia,Total,15-19,142,68,74,31,22,9,25,17,8,6,5,1,0,0,0,0,0,0,0,0,0
+719,544,District - Baleshwar 08,Madia,Total,20-24,120,56,64,11,11,0,6,6,0,5,5,0,0,0,0,0,0,0,0,0,0
+720,544,District - Baleshwar 08,Madia,Total,25+,862,431,431,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+721,544,District - Baleshwar 08,Madia,Total,Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+722,544,District - Baleshwar 08,Madia,Rural,All ages,1817,860,957,251,148,103,239,137,102,12,11,1,0,0,0,0,0,0,0,0,0
+723,544,District - Baleshwar 08,Madia,Rural,0-5,255,105,150,16,5,11,16,5,11,0,0,0,0,0,0,0,0,0,0,0,0
+724,544,District - Baleshwar 08,Madia,Rural,6-14,440,201,239,192,109,83,192,109,83,0,0,0,0,0,0,0,0,0,0,0,0
+725,544,District - Baleshwar 08,Madia,Rural,15-19,142,68,74,31,22,9,25,17,8,6,5,1,0,0,0,0,0,0,0,0,0
+726,544,District - Baleshwar 08,Madia,Rural,20-24,120,56,64,11,11,0,6,6,0,5,5,0,0,0,0,0,0,0,0,0,0
+727,544,District - Baleshwar 08,Madia,Rural,25+,859,430,429,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+728,544,District - Baleshwar 08,Madia,Rural,Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+729,544,District - Baleshwar 08,Madia,Urban,All ages,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+730,544,District - Baleshwar 08,Madia,Urban,0-5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+731,544,District - Baleshwar 08,Madia,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+732,544,District - Baleshwar 08,Madia,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+733,544,District - Baleshwar 08,Madia,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+734,544,District - Baleshwar 08,Madia,Urban,25+,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+735,544,District - Baleshwar 08,Madia,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+736,545,District - Baleshwar 08,Mahali,Total,All ages,380,191,189,39,27,12,39,27,12,0,0,0,0,0,0,0,0,0,0,0,0
+737,545,District - Baleshwar 08,Mahali,Total,0-5,50,25,25,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+738,545,District - Baleshwar 08,Mahali,Total,6-14,78,41,37,30,21,9,30,21,9,0,0,0,0,0,0,0,0,0,0,0,0
+739,545,District - Baleshwar 08,Mahali,Total,15-19,33,17,16,6,4,2,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0
+740,545,District - Baleshwar 08,Mahali,Total,20-24,34,18,16,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+741,545,District - Baleshwar 08,Mahali,Total,25+,182,88,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+742,545,District - Baleshwar 08,Mahali,Total,Unknown,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+743,545,District - Baleshwar 08,Mahali,Rural,All ages,372,187,185,38,27,11,38,27,11,0,0,0,0,0,0,0,0,0,0,0,0
+744,545,District - Baleshwar 08,Mahali,Rural,0-5,47,23,24,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+745,545,District - Baleshwar 08,Mahali,Rural,6-14,78,41,37,30,21,9,30,21,9,0,0,0,0,0,0,0,0,0,0,0,0
+746,545,District - Baleshwar 08,Mahali,Rural,15-19,33,17,16,6,4,2,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0
+747,545,District - Baleshwar 08,Mahali,Rural,20-24,34,18,16,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+748,545,District - Baleshwar 08,Mahali,Rural,25+,177,86,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+749,545,District - Baleshwar 08,Mahali,Rural,Unknown,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+750,545,District - Baleshwar 08,Mahali,Urban,All ages,8,4,4,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+751,545,District - Baleshwar 08,Mahali,Urban,0-5,3,2,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+752,545,District - Baleshwar 08,Mahali,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+753,545,District - Baleshwar 08,Mahali,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+754,545,District - Baleshwar 08,Mahali,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+755,545,District - Baleshwar 08,Mahali,Urban,25+,5,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+756,545,District - Baleshwar 08,Mahali,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+757,546,District - Baleshwar 08,Mankidi,Total,All ages,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+758,546,District - Baleshwar 08,Mankidi,Total,0-5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+759,546,District - Baleshwar 08,Mankidi,Total,6-14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+760,546,District - Baleshwar 08,Mankidi,Total,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+761,546,District - Baleshwar 08,Mankidi,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+762,546,District - Baleshwar 08,Mankidi,Total,25+,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+763,546,District - Baleshwar 08,Mankidi,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+764,546,District - Baleshwar 08,Mankidi,Rural,All ages,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+765,546,District - Baleshwar 08,Mankidi,Rural,0-5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+766,546,District - Baleshwar 08,Mankidi,Rural,6-14,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+767,546,District - Baleshwar 08,Mankidi,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+768,546,District - Baleshwar 08,Mankidi,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+769,546,District - Baleshwar 08,Mankidi,Rural,25+,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+770,546,District - Baleshwar 08,Mankidi,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+771,546,District - Baleshwar 08,Mankidi,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+772,546,District - Baleshwar 08,Mankidi,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+773,546,District - Baleshwar 08,Mankidi,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+774,546,District - Baleshwar 08,Mankidi,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+775,546,District - Baleshwar 08,Mankidi,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+776,546,District - Baleshwar 08,Mankidi,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+777,546,District - Baleshwar 08,Mankidi,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+778,547,District - Baleshwar 08,Mankirdia,Total,All ages,108,63,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+779,547,District - Baleshwar 08,Mankirdia,Total,0-5,19,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+780,547,District - Baleshwar 08,Mankirdia,Total,6-14,29,21,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+781,547,District - Baleshwar 08,Mankirdia,Total,15-19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+782,547,District - Baleshwar 08,Mankirdia,Total,20-24,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+783,547,District - Baleshwar 08,Mankirdia,Total,25+,52,28,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+784,547,District - Baleshwar 08,Mankirdia,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+785,547,District - Baleshwar 08,Mankirdia,Rural,All ages,108,63,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+786,547,District - Baleshwar 08,Mankirdia,Rural,0-5,19,12,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+787,547,District - Baleshwar 08,Mankirdia,Rural,6-14,29,21,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+788,547,District - Baleshwar 08,Mankirdia,Rural,15-19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+789,547,District - Baleshwar 08,Mankirdia,Rural,20-24,5,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+790,547,District - Baleshwar 08,Mankirdia,Rural,25+,52,28,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+791,547,District - Baleshwar 08,Mankirdia,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+792,547,District - Baleshwar 08,Mankirdia,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+793,547,District - Baleshwar 08,Mankirdia,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+794,547,District - Baleshwar 08,Mankirdia,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+795,547,District - Baleshwar 08,Mankirdia,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+796,547,District - Baleshwar 08,Mankirdia,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+797,547,District - Baleshwar 08,Mankirdia,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+798,547,District - Baleshwar 08,Mankirdia,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+799,548,District - Baleshwar 08,Matya,Total,All ages,786,411,375,79,63,16,74,58,16,5,5,0,0,0,0,0,0,0,0,0,0
+800,548,District - Baleshwar 08,Matya,Total,0-5,113,55,58,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+801,548,District - Baleshwar 08,Matya,Total,6-14,176,100,76,61,48,13,61,48,13,0,0,0,0,0,0,0,0,0,0,0,0
+802,548,District - Baleshwar 08,Matya,Total,15-19,94,42,52,11,10,1,9,8,1,2,2,0,0,0,0,0,0,0,0,0,0
+803,548,District - Baleshwar 08,Matya,Total,20-24,66,42,24,3,3,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0
+804,548,District - Baleshwar 08,Matya,Total,25+,335,172,163,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+805,548,District - Baleshwar 08,Matya,Total,Unknown,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+806,548,District - Baleshwar 08,Matya,Rural,All ages,714,374,340,72,57,15,67,52,15,5,5,0,0,0,0,0,0,0,0,0,0
+807,548,District - Baleshwar 08,Matya,Rural,0-5,105,51,54,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+808,548,District - Baleshwar 08,Matya,Rural,6-14,159,88,71,55,42,13,55,42,13,0,0,0,0,0,0,0,0,0,0,0,0
+809,548,District - Baleshwar 08,Matya,Rural,15-19,88,40,48,11,10,1,9,8,1,2,2,0,0,0,0,0,0,0,0,0,0
+810,548,District - Baleshwar 08,Matya,Rural,20-24,55,36,19,3,3,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0
+811,548,District - Baleshwar 08,Matya,Rural,25+,307,159,148,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+812,548,District - Baleshwar 08,Matya,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+813,548,District - Baleshwar 08,Matya,Urban,All ages,72,37,35,7,6,1,7,6,1,0,0,0,0,0,0,0,0,0,0,0,0
+814,548,District - Baleshwar 08,Matya,Urban,0-5,8,4,4,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+815,548,District - Baleshwar 08,Matya,Urban,6-14,17,12,5,6,6,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+816,548,District - Baleshwar 08,Matya,Urban,15-19,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+817,548,District - Baleshwar 08,Matya,Urban,20-24,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+818,548,District - Baleshwar 08,Matya,Urban,25+,28,13,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+819,548,District - Baleshwar 08,Matya,Urban,Unknown,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+820,550,District - Baleshwar 08,Munda etc.,Total,All ages,1037,527,510,111,70,41,105,65,40,4,3,1,0,0,0,1,1,0,1,1,0
+821,550,District - Baleshwar 08,Munda etc.,Total,0-5,166,77,89,4,2,2,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+822,550,District - Baleshwar 08,Munda etc.,Total,6-14,241,115,126,88,53,35,88,53,35,0,0,0,0,0,0,0,0,0,0,0,0
+823,550,District - Baleshwar 08,Munda etc.,Total,15-19,96,46,50,13,9,4,11,8,3,1,0,1,0,0,0,1,1,0,0,0,0
+824,550,District - Baleshwar 08,Munda etc.,Total,20-24,94,56,38,5,5,0,2,2,0,3,3,0,0,0,0,0,0,0,0,0,0
+825,550,District - Baleshwar 08,Munda etc.,Total,25+,440,233,207,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+826,550,District - Baleshwar 08,Munda etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+827,550,District - Baleshwar 08,Munda etc.,Rural,All ages,885,448,437,85,57,28,83,55,28,2,2,0,0,0,0,0,0,0,0,0,0
+828,550,District - Baleshwar 08,Munda etc.,Rural,0-5,143,62,81,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+829,550,District - Baleshwar 08,Munda etc.,Rural,6-14,208,101,107,71,46,25,71,46,25,0,0,0,0,0,0,0,0,0,0,0,0
+830,550,District - Baleshwar 08,Munda etc.,Rural,15-19,83,38,45,8,6,2,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0
+831,550,District - Baleshwar 08,Munda etc.,Rural,20-24,85,52,33,4,4,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0
+832,550,District - Baleshwar 08,Munda etc.,Rural,25+,366,195,171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+833,550,District - Baleshwar 08,Munda etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+834,550,District - Baleshwar 08,Munda etc.,Urban,All ages,152,79,73,26,13,13,22,10,12,2,1,1,0,0,0,1,1,0,1,1,0
+835,550,District - Baleshwar 08,Munda etc.,Urban,0-5,23,15,8,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+836,550,District - Baleshwar 08,Munda etc.,Urban,6-14,33,14,19,17,7,10,17,7,10,0,0,0,0,0,0,0,0,0,0,0,0
+837,550,District - Baleshwar 08,Munda etc.,Urban,15-19,13,8,5,5,3,2,3,2,1,1,0,1,0,0,0,1,1,0,0,0,0
+838,550,District - Baleshwar 08,Munda etc.,Urban,20-24,9,4,5,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+839,550,District - Baleshwar 08,Munda etc.,Urban,25+,74,38,36,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+840,550,District - Baleshwar 08,Munda etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+841,551,District - Baleshwar 08,Mundari,Total,All ages,283,138,145,28,19,9,26,17,9,0,0,0,0,0,0,2,2,0,0,0,0
+842,551,District - Baleshwar 08,Mundari,Total,0-5,55,23,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+843,551,District - Baleshwar 08,Mundari,Total,6-14,74,38,36,22,14,8,22,14,8,0,0,0,0,0,0,0,0,0,0,0,0
+844,551,District - Baleshwar 08,Mundari,Total,15-19,25,17,8,6,5,1,4,3,1,0,0,0,0,0,0,2,2,0,0,0,0
+845,551,District - Baleshwar 08,Mundari,Total,20-24,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+846,551,District - Baleshwar 08,Mundari,Total,25+,117,55,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+847,551,District - Baleshwar 08,Mundari,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+848,551,District - Baleshwar 08,Mundari,Rural,All ages,147,68,79,11,6,5,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0
+849,551,District - Baleshwar 08,Mundari,Rural,0-5,30,14,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+850,551,District - Baleshwar 08,Mundari,Rural,6-14,41,17,24,11,6,5,11,6,5,0,0,0,0,0,0,0,0,0,0,0,0
+851,551,District - Baleshwar 08,Mundari,Rural,15-19,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+852,551,District - Baleshwar 08,Mundari,Rural,20-24,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+853,551,District - Baleshwar 08,Mundari,Rural,25+,62,29,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+854,551,District - Baleshwar 08,Mundari,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+855,551,District - Baleshwar 08,Mundari,Urban,All ages,136,70,66,17,13,4,15,11,4,0,0,0,0,0,0,2,2,0,0,0,0
+856,551,District - Baleshwar 08,Mundari,Urban,0-5,25,9,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+857,551,District - Baleshwar 08,Mundari,Urban,6-14,33,21,12,11,8,3,11,8,3,0,0,0,0,0,0,0,0,0,0,0,0
+858,551,District - Baleshwar 08,Mundari,Urban,15-19,14,9,5,6,5,1,4,3,1,0,0,0,0,0,0,2,2,0,0,0,0
+859,551,District - Baleshwar 08,Mundari,Urban,20-24,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+860,551,District - Baleshwar 08,Mundari,Urban,25+,55,26,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+861,551,District - Baleshwar 08,Mundari,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+862,552,District - Baleshwar 08,Omanatya,Total,All ages,231,119,112,33,19,14,33,19,14,0,0,0,0,0,0,0,0,0,0,0,0
+863,552,District - Baleshwar 08,Omanatya,Total,0-5,26,15,11,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+864,552,District - Baleshwar 08,Omanatya,Total,6-14,51,24,27,26,15,11,26,15,11,0,0,0,0,0,0,0,0,0,0,0,0
+865,552,District - Baleshwar 08,Omanatya,Total,15-19,20,12,8,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+866,552,District - Baleshwar 08,Omanatya,Total,20-24,12,7,5,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+867,552,District - Baleshwar 08,Omanatya,Total,25+,122,61,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+868,552,District - Baleshwar 08,Omanatya,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+869,552,District - Baleshwar 08,Omanatya,Rural,All ages,231,119,112,33,19,14,33,19,14,0,0,0,0,0,0,0,0,0,0,0,0
+870,552,District - Baleshwar 08,Omanatya,Rural,0-5,26,15,11,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+871,552,District - Baleshwar 08,Omanatya,Rural,6-14,51,24,27,26,15,11,26,15,11,0,0,0,0,0,0,0,0,0,0,0,0
+872,552,District - Baleshwar 08,Omanatya,Rural,15-19,20,12,8,5,3,2,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+873,552,District - Baleshwar 08,Omanatya,Rural,20-24,12,7,5,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+874,552,District - Baleshwar 08,Omanatya,Rural,25+,122,61,61,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+875,552,District - Baleshwar 08,Omanatya,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+876,552,District - Baleshwar 08,Omanatya,Urban,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+877,552,District - Baleshwar 08,Omanatya,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+878,552,District - Baleshwar 08,Omanatya,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+879,552,District - Baleshwar 08,Omanatya,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+880,552,District - Baleshwar 08,Omanatya,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+881,552,District - Baleshwar 08,Omanatya,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+882,552,District - Baleshwar 08,Omanatya,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+883,553,District - Baleshwar 08,Oraon,Total,All ages,1664,874,790,239,162,77,227,153,74,8,5,3,4,4,0,0,0,0,0,0,0
+884,553,District - Baleshwar 08,Oraon,Total,0-5,216,108,108,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+885,553,District - Baleshwar 08,Oraon,Total,6-14,451,242,209,193,126,67,193,126,67,0,0,0,0,0,0,0,0,0,0,0,0
+886,553,District - Baleshwar 08,Oraon,Total,15-19,166,94,72,36,28,8,30,23,7,5,4,1,1,1,0,0,0,0,0,0,0
+887,553,District - Baleshwar 08,Oraon,Total,20-24,143,85,58,4,2,2,0,0,0,3,1,2,1,1,0,0,0,0,0,0,0
+888,553,District - Baleshwar 08,Oraon,Total,25+,688,345,343,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+889,553,District - Baleshwar 08,Oraon,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+890,553,District - Baleshwar 08,Oraon,Rural,All ages,1650,866,784,234,158,76,223,150,73,8,5,3,3,3,0,0,0,0,0,0,0
+891,553,District - Baleshwar 08,Oraon,Rural,0-5,213,107,106,4,4,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0
+892,553,District - Baleshwar 08,Oraon,Rural,6-14,447,240,207,191,125,66,191,125,66,0,0,0,0,0,0,0,0,0,0,0,0
+893,553,District - Baleshwar 08,Oraon,Rural,15-19,164,92,72,34,26,8,28,21,7,5,4,1,1,1,0,0,0,0,0,0,0
+894,553,District - Baleshwar 08,Oraon,Rural,20-24,142,84,58,3,1,2,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0
+895,553,District - Baleshwar 08,Oraon,Rural,25+,684,343,341,2,2,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0
+896,553,District - Baleshwar 08,Oraon,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+897,553,District - Baleshwar 08,Oraon,Urban,All ages,14,8,6,5,4,1,4,3,1,0,0,0,1,1,0,0,0,0,0,0,0
+898,553,District - Baleshwar 08,Oraon,Urban,0-5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+899,553,District - Baleshwar 08,Oraon,Urban,6-14,4,2,2,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+900,553,District - Baleshwar 08,Oraon,Urban,15-19,2,2,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+901,553,District - Baleshwar 08,Oraon,Urban,20-24,1,1,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+902,553,District - Baleshwar 08,Oraon,Urban,25+,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+903,553,District - Baleshwar 08,Oraon,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+904,555,District - Baleshwar 08,Paroja,Total,All ages,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+905,555,District - Baleshwar 08,Paroja,Total,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+906,555,District - Baleshwar 08,Paroja,Total,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+907,555,District - Baleshwar 08,Paroja,Total,15-19,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+908,555,District - Baleshwar 08,Paroja,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+909,555,District - Baleshwar 08,Paroja,Total,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+910,555,District - Baleshwar 08,Paroja,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+911,555,District - Baleshwar 08,Paroja,Rural,All ages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+912,555,District - Baleshwar 08,Paroja,Rural,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+913,555,District - Baleshwar 08,Paroja,Rural,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+914,555,District - Baleshwar 08,Paroja,Rural,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+915,555,District - Baleshwar 08,Paroja,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+916,555,District - Baleshwar 08,Paroja,Rural,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+917,555,District - Baleshwar 08,Paroja,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+918,555,District - Baleshwar 08,Paroja,Urban,All ages,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+919,555,District - Baleshwar 08,Paroja,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+920,555,District - Baleshwar 08,Paroja,Urban,6-14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+921,555,District - Baleshwar 08,Paroja,Urban,15-19,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+922,555,District - Baleshwar 08,Paroja,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+923,555,District - Baleshwar 08,Paroja,Urban,25+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+924,555,District - Baleshwar 08,Paroja,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+925,557,District - Baleshwar 08,Rajuar,Total,All ages,228,120,108,26,18,8,26,18,8,0,0,0,0,0,0,0,0,0,0,0,0
+926,557,District - Baleshwar 08,Rajuar,Total,0-5,35,16,19,3,1,2,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+927,557,District - Baleshwar 08,Rajuar,Total,6-14,46,27,19,21,15,6,21,15,6,0,0,0,0,0,0,0,0,0,0,0,0
+928,557,District - Baleshwar 08,Rajuar,Total,15-19,18,10,8,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+929,557,District - Baleshwar 08,Rajuar,Total,20-24,20,11,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+930,557,District - Baleshwar 08,Rajuar,Total,25+,109,56,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+931,557,District - Baleshwar 08,Rajuar,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+932,557,District - Baleshwar 08,Rajuar,Rural,All ages,92,45,47,8,6,2,8,6,2,0,0,0,0,0,0,0,0,0,0,0,0
+933,557,District - Baleshwar 08,Rajuar,Rural,0-5,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+934,557,District - Baleshwar 08,Rajuar,Rural,6-14,21,9,12,7,5,2,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0
+935,557,District - Baleshwar 08,Rajuar,Rural,15-19,7,4,3,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+936,557,District - Baleshwar 08,Rajuar,Rural,20-24,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+937,557,District - Baleshwar 08,Rajuar,Rural,25+,45,22,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+938,557,District - Baleshwar 08,Rajuar,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+939,557,District - Baleshwar 08,Rajuar,Urban,All ages,136,75,61,18,12,6,18,12,6,0,0,0,0,0,0,0,0,0,0,0,0
+940,557,District - Baleshwar 08,Rajuar,Urban,0-5,23,11,12,3,1,2,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+941,557,District - Baleshwar 08,Rajuar,Urban,6-14,25,18,7,14,10,4,14,10,4,0,0,0,0,0,0,0,0,0,0,0,0
+942,557,District - Baleshwar 08,Rajuar,Urban,15-19,11,6,5,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+943,557,District - Baleshwar 08,Rajuar,Urban,20-24,13,6,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+944,557,District - Baleshwar 08,Rajuar,Urban,25+,64,34,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+945,557,District - Baleshwar 08,Rajuar,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+946,558,District - Baleshwar 08,Santal,Total,All ages,84713,43377,41336,10814,6973,3841,10393,6638,3755,365,288,77,33,27,6,13,12,1,10,8,2
+947,558,District - Baleshwar 08,Santal,Total,0-5,13382,6802,6580,367,202,165,367,202,165,0,0,0,0,0,0,0,0,0,0,0,0
+948,558,District - Baleshwar 08,Santal,Total,6-14,21943,11542,10401,8450,5347,3103,8450,5347,3103,0,0,0,0,0,0,0,0,0,0,0,0
+949,558,District - Baleshwar 08,Santal,Total,15-19,7869,4173,3696,1649,1151,498,1456,1003,453,168,125,43,16,15,1,9,8,1,0,0,0
+950,558,District - Baleshwar 08,Santal,Total,20-24,6274,3210,3064,297,228,69,120,86,34,164,131,33,7,5,2,4,4,0,2,2,0
+951,558,District - Baleshwar 08,Santal,Total,25+,35130,17595,17535,50,44,6,0,0,0,32,31,1,10,7,3,0,0,0,8,6,2
+952,558,District - Baleshwar 08,Santal,Total,Unknown,115,55,60,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+953,558,District - Baleshwar 08,Santal,Rural,All ages,76429,39075,37354,9474,6154,3320,9162,5903,3259,280,227,53,18,13,5,4,3,1,10,8,2
+954,558,District - Baleshwar 08,Santal,Rural,0-5,12164,6171,5993,322,180,142,322,180,142,0,0,0,0,0,0,0,0,0,0,0,0
+955,558,District - Baleshwar 08,Santal,Rural,6-14,19950,10452,9498,7487,4768,2719,7487,4768,2719,0,0,0,0,0,0,0,0,0,0,0,0
+956,558,District - Baleshwar 08,Santal,Rural,15-19,7014,3714,3300,1387,982,405,1249,877,372,128,97,31,7,6,1,3,2,1,0,0,0
+957,558,District - Baleshwar 08,Santal,Rural,20-24,5588,2870,2718,234,185,49,104,78,26,123,101,22,4,3,1,1,1,0,2,2,0
+958,558,District - Baleshwar 08,Santal,Rural,25+,31612,15820,15792,43,38,5,0,0,0,28,28,0,7,4,3,0,0,0,8,6,2
+959,558,District - Baleshwar 08,Santal,Rural,Unknown,101,48,53,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+960,558,District - Baleshwar 08,Santal,Urban,All ages,8284,4302,3982,1340,819,521,1231,735,496,85,61,24,15,14,1,9,9,0,0,0,0
+961,558,District - Baleshwar 08,Santal,Urban,0-5,1218,631,587,45,22,23,45,22,23,0,0,0,0,0,0,0,0,0,0,0,0
+962,558,District - Baleshwar 08,Santal,Urban,6-14,1993,1090,903,963,579,384,963,579,384,0,0,0,0,0,0,0,0,0,0,0,0
+963,558,District - Baleshwar 08,Santal,Urban,15-19,855,459,396,262,169,93,207,126,81,40,28,12,9,9,0,6,6,0,0,0,0
+964,558,District - Baleshwar 08,Santal,Urban,20-24,686,340,346,63,43,20,16,8,8,41,30,11,3,2,1,3,3,0,0,0,0
+965,558,District - Baleshwar 08,Santal,Urban,25+,3518,1775,1743,7,6,1,0,0,0,4,3,1,3,3,0,0,0,0,0,0,0
+966,558,District - Baleshwar 08,Santal,Urban,Unknown,14,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+967,559,District - Baleshwar 08,Saora etc.,Total,All ages,1963,982,981,307,181,126,298,173,125,8,7,1,1,1,0,0,0,0,0,0,0
+968,559,District - Baleshwar 08,Saora etc.,Total,0-5,223,106,117,9,5,4,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0
+969,559,District - Baleshwar 08,Saora etc.,Total,6-14,431,238,193,240,139,101,240,139,101,0,0,0,0,0,0,0,0,0,0,0,0
+970,559,District - Baleshwar 08,Saora etc.,Total,15-19,180,80,100,52,33,19,46,27,19,5,5,0,1,1,0,0,0,0,0,0,0
+971,559,District - Baleshwar 08,Saora etc.,Total,20-24,148,72,76,5,3,2,3,2,1,2,1,1,0,0,0,0,0,0,0,0,0
+972,559,District - Baleshwar 08,Saora etc.,Total,25+,981,486,495,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+973,559,District - Baleshwar 08,Saora etc.,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+974,559,District - Baleshwar 08,Saora etc.,Rural,All ages,1737,864,873,281,163,118,274,156,118,7,7,0,0,0,0,0,0,0,0,0,0
+975,559,District - Baleshwar 08,Saora etc.,Rural,0-5,194,89,105,9,5,4,9,5,4,0,0,0,0,0,0,0,0,0,0,0,0
+976,559,District - Baleshwar 08,Saora etc.,Rural,6-14,381,208,173,219,123,96,219,123,96,0,0,0,0,0,0,0,0,0,0,0,0
+977,559,District - Baleshwar 08,Saora etc.,Rural,15-19,159,70,89,49,31,18,44,26,18,5,5,0,0,0,0,0,0,0,0,0,0
+978,559,District - Baleshwar 08,Saora etc.,Rural,20-24,125,61,64,3,3,0,2,2,0,1,1,0,0,0,0,0,0,0,0,0,0
+979,559,District - Baleshwar 08,Saora etc.,Rural,25+,878,436,442,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+980,559,District - Baleshwar 08,Saora etc.,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+981,559,District - Baleshwar 08,Saora etc.,Urban,All ages,226,118,108,26,18,8,24,17,7,1,0,1,1,1,0,0,0,0,0,0,0
+982,559,District - Baleshwar 08,Saora etc.,Urban,0-5,29,17,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+983,559,District - Baleshwar 08,Saora etc.,Urban,6-14,50,30,20,21,16,5,21,16,5,0,0,0,0,0,0,0,0,0,0,0,0
+984,559,District - Baleshwar 08,Saora etc.,Urban,15-19,21,10,11,3,2,1,2,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+985,559,District - Baleshwar 08,Saora etc.,Urban,20-24,23,11,12,2,0,2,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+986,559,District - Baleshwar 08,Saora etc.,Urban,25+,103,50,53,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+987,559,District - Baleshwar 08,Saora etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+988,560,District - Baleshwar 08,Shabar,Total,All ages,4103,2129,1974,623,386,237,596,364,232,26,21,5,1,1,0,0,0,0,0,0,0
+989,560,District - Baleshwar 08,Shabar,Total,0-5,555,305,250,12,5,7,12,5,7,0,0,0,0,0,0,0,0,0,0,0,0
+990,560,District - Baleshwar 08,Shabar,Total,6-14,974,503,471,512,307,205,512,307,205,0,0,0,0,0,0,0,0,0,0,0,0
+991,560,District - Baleshwar 08,Shabar,Total,15-19,331,179,152,75,55,20,67,50,17,8,5,3,0,0,0,0,0,0,0,0,0
+992,560,District - Baleshwar 08,Shabar,Total,20-24,356,186,170,21,16,5,5,2,3,16,14,2,0,0,0,0,0,0,0,0,0
+993,560,District - Baleshwar 08,Shabar,Total,25+,1875,950,925,3,3,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0
+994,560,District - Baleshwar 08,Shabar,Total,Unknown,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+995,560,District - Baleshwar 08,Shabar,Rural,All ages,4015,2078,1937,606,374,232,582,354,228,23,19,4,1,1,0,0,0,0,0,0,0
+996,560,District - Baleshwar 08,Shabar,Rural,0-5,547,299,248,11,4,7,11,4,7,0,0,0,0,0,0,0,0,0,0,0,0
+997,560,District - Baleshwar 08,Shabar,Rural,6-14,948,489,459,502,301,201,502,301,201,0,0,0,0,0,0,0,0,0,0,0,0
+998,560,District - Baleshwar 08,Shabar,Rural,15-19,318,171,147,70,51,19,64,47,17,6,4,2,0,0,0,0,0,0,0,0,0
+999,560,District - Baleshwar 08,Shabar,Rural,20-24,348,179,169,20,15,5,5,2,3,15,13,2,0,0,0,0,0,0,0,0,0
+1000,560,District - Baleshwar 08,Shabar,Rural,25+,1842,934,908,3,3,0,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0
+1001,560,District - Baleshwar 08,Shabar,Rural,Unknown,12,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1002,560,District - Baleshwar 08,Shabar,Urban,All ages,88,51,37,17,12,5,14,10,4,3,2,1,0,0,0,0,0,0,0,0,0
+1003,560,District - Baleshwar 08,Shabar,Urban,0-5,8,6,2,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1004,560,District - Baleshwar 08,Shabar,Urban,6-14,26,14,12,10,6,4,10,6,4,0,0,0,0,0,0,0,0,0,0,0,0
+1005,560,District - Baleshwar 08,Shabar,Urban,15-19,13,8,5,5,4,1,3,3,0,2,1,1,0,0,0,0,0,0,0,0,0
+1006,560,District - Baleshwar 08,Shabar,Urban,20-24,8,7,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+1007,560,District - Baleshwar 08,Shabar,Urban,25+,33,16,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1008,560,District - Baleshwar 08,Shabar,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1009,561,District - Baleshwar 08,Sounti,Total,All ages,1076,519,557,85,59,26,82,56,26,3,3,0,0,0,0,0,0,0,0,0,0
+1010,561,District - Baleshwar 08,Sounti,Total,0-5,157,72,85,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+1011,561,District - Baleshwar 08,Sounti,Total,6-14,240,119,121,68,47,21,68,47,21,0,0,0,0,0,0,0,0,0,0,0,0
+1012,561,District - Baleshwar 08,Sounti,Total,15-19,98,50,48,11,9,2,9,7,2,2,2,0,0,0,0,0,0,0,0,0,0
+1013,561,District - Baleshwar 08,Sounti,Total,20-24,69,29,40,4,1,3,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0
+1014,561,District - Baleshwar 08,Sounti,Total,25+,510,248,262,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1015,561,District - Baleshwar 08,Sounti,Total,Unknown,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1016,561,District - Baleshwar 08,Sounti,Rural,All ages,1070,516,554,82,57,25,79,54,25,3,3,0,0,0,0,0,0,0,0,0,0
+1017,561,District - Baleshwar 08,Sounti,Rural,0-5,157,72,85,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+1018,561,District - Baleshwar 08,Sounti,Rural,6-14,237,117,120,65,45,20,65,45,20,0,0,0,0,0,0,0,0,0,0,0,0
+1019,561,District - Baleshwar 08,Sounti,Rural,15-19,98,50,48,11,9,2,9,7,2,2,2,0,0,0,0,0,0,0,0,0,0
+1020,561,District - Baleshwar 08,Sounti,Rural,20-24,69,29,40,4,1,3,3,0,3,1,1,0,0,0,0,0,0,0,0,0,0
+1021,561,District - Baleshwar 08,Sounti,Rural,25+,507,247,260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1022,561,District - Baleshwar 08,Sounti,Rural,Unknown,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1023,561,District - Baleshwar 08,Sounti,Urban,All ages,6,3,3,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+1024,561,District - Baleshwar 08,Sounti,Urban,0-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1025,561,District - Baleshwar 08,Sounti,Urban,6-14,3,2,1,3,2,1,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+1026,561,District - Baleshwar 08,Sounti,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1027,561,District - Baleshwar 08,Sounti,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1028,561,District - Baleshwar 08,Sounti,Urban,25+,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1029,561,District - Baleshwar 08,Sounti,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1030,562,District - Baleshwar 08,Tharua,Total,All ages,48,19,29,7,4,3,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0
+1031,562,District - Baleshwar 08,Tharua,Total,0-5,8,2,6,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1032,562,District - Baleshwar 08,Tharua,Total,6-14,15,4,11,6,4,2,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0
+1033,562,District - Baleshwar 08,Tharua,Total,15-19,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1034,562,District - Baleshwar 08,Tharua,Total,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1035,562,District - Baleshwar 08,Tharua,Total,25+,22,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1036,562,District - Baleshwar 08,Tharua,Total,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1037,562,District - Baleshwar 08,Tharua,Rural,All ages,33,14,19,7,4,3,7,4,3,0,0,0,0,0,0,0,0,0,0,0,0
+1038,562,District - Baleshwar 08,Tharua,Rural,0-5,5,1,4,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1039,562,District - Baleshwar 08,Tharua,Rural,6-14,12,4,8,6,4,2,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0
+1040,562,District - Baleshwar 08,Tharua,Rural,15-19,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1041,562,District - Baleshwar 08,Tharua,Rural,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1042,562,District - Baleshwar 08,Tharua,Rural,25+,13,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1043,562,District - Baleshwar 08,Tharua,Rural,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1044,562,District - Baleshwar 08,Tharua,Urban,All ages,15,5,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1045,562,District - Baleshwar 08,Tharua,Urban,0-5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1046,562,District - Baleshwar 08,Tharua,Urban,6-14,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1047,562,District - Baleshwar 08,Tharua,Urban,15-19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1048,562,District - Baleshwar 08,Tharua,Urban,20-24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1049,562,District - Baleshwar 08,Tharua,Urban,25+,9,4,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1050,562,District - Baleshwar 08,Tharua,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1051,990,District - Baleshwar 08,Generic Tribes etc.,Total,All ages,1388,747,641,248,180,68,236,173,63,12,7,5,0,0,0,0,0,0,0,0,0
+1052,990,District - Baleshwar 08,Generic Tribes etc.,Total,0-5,185,101,84,12,9,3,12,9,3,0,0,0,0,0,0,0,0,0,0,0,0
+1053,990,District - Baleshwar 08,Generic Tribes etc.,Total,6-14,392,241,151,191,144,47,191,144,47,0,0,0,0,0,0,0,0,0,0,0,0
+1054,990,District - Baleshwar 08,Generic Tribes etc.,Total,15-19,136,73,63,37,20,17,30,18,12,7,2,5,0,0,0,0,0,0,0,0,0
+1055,990,District - Baleshwar 08,Generic Tribes etc.,Total,20-24,118,53,65,8,7,1,3,2,1,5,5,0,0,0,0,0,0,0,0,0,0
+1056,990,District - Baleshwar 08,Generic Tribes etc.,Total,25+,556,279,277,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1057,990,District - Baleshwar 08,Generic Tribes etc.,Total,Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1058,990,District - Baleshwar 08,Generic Tribes etc.,Rural,All ages,747,392,355,51,32,19,50,31,19,1,1,0,0,0,0,0,0,0,0,0,0
+1059,990,District - Baleshwar 08,Generic Tribes etc.,Rural,0-5,105,67,38,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1060,990,District - Baleshwar 08,Generic Tribes etc.,Rural,6-14,181,89,92,37,23,14,37,23,14,0,0,0,0,0,0,0,0,0,0,0,0
+1061,990,District - Baleshwar 08,Generic Tribes etc.,Rural,15-19,76,45,31,10,7,3,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0
+1062,990,District - Baleshwar 08,Generic Tribes etc.,Rural,20-24,62,27,35,3,2,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+1063,990,District - Baleshwar 08,Generic Tribes etc.,Rural,25+,322,164,158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1064,990,District - Baleshwar 08,Generic Tribes etc.,Rural,Unknown,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1065,990,District - Baleshwar 08,Generic Tribes etc.,Urban,All ages,641,355,286,197,148,49,186,142,44,11,6,5,0,0,0,0,0,0,0,0,0
+1066,990,District - Baleshwar 08,Generic Tribes etc.,Urban,0-5,80,34,46,11,9,2,11,9,2,0,0,0,0,0,0,0,0,0,0,0,0
+1067,990,District - Baleshwar 08,Generic Tribes etc.,Urban,6-14,211,152,59,154,121,33,154,121,33,0,0,0,0,0,0,0,0,0,0,0,0
+1068,990,District - Baleshwar 08,Generic Tribes etc.,Urban,15-19,60,28,32,27,13,14,20,11,9,7,2,5,0,0,0,0,0,0,0,0,0
+1069,990,District - Baleshwar 08,Generic Tribes etc.,Urban,20-24,56,26,30,5,5,0,1,1,0,4,4,0,0,0,0,0,0,0,0,0,0
+1070,990,District - Baleshwar 08,Generic Tribes etc.,Urban,25+,234,115,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1071,990,District - Baleshwar 08,Generic Tribes etc.,Urban,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
